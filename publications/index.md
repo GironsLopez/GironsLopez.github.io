@@ -18,7 +18,7 @@ Mbanguka, R. P., Lyon, S. W., Holmgren, K., **Girons Lopez, M.**, Jarsjö, J. (2
 
 # Manuscripts in preparation
 
-Breinl, K., Dib Baldassarre, G., **Girons Lopez, M.**, Vico, G., Rutgersson, A. (2017) Can weather generation capture precipitation patterns across climates, spatial scales and under data scarcity? *Scientific Reports, under review*.
+Breinl, K., Di Baldassarre, G., **Girons Lopez, M.**, Vico, G., Rutgersson, A. (2017) Can weather generation capture precipitation patterns across climates, spatial scales and under data scarcity? *Scientific Reports, under review*.
 
 Rivera, S., **Girons Lopez, M.**, Seibert, J., Minsker, B. (2017). Probabilistic Flood Mapping Using Volunteered Geographical Information. *Manuscript in preparation*.
 
