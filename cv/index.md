@@ -5,11 +5,10 @@ description: Current CV for Marc Girons Lopez
 ---
 
 # Marc Girons Lopez  <a target="_blank" href="/files/GironsLopez-resume.pdf" class="btn btn-primary pull-right" title="Download CV as PDF">Download CV</a>
-**Uppsala University**  
-Centre for Natural Disaster Science  
-Department of Earth Sciences  
-Villavägen 16  
-752 36 Uppsala, Sweden
+**University of Zurich**  
+Department of Geography  
+Winterthurerstrasse 190  
+8057 Zurich, Switzerland
 
 <div class="line-separator"></div>
 
@@ -17,19 +16,36 @@ Villavägen 16
 
 <div class="line-separator"></div>
 
+# Experience
+
+### Postdoctoral Researcher, Hydrology
+**2017** University of Zurich • Zurich, Switzerland
+
+### Graduate Teaching Assistant
+**2011 - 2016** Uppsala University • Uppsala, Sweden
+
+### Graduate Research Assistant
+**2011 - 2016** Uppsala University • Uppsala, Sweden
+
+### Lab technician intern
+**2009** Laboratori Català de Control • Barcelona, Spain
+
+### Consultant intern  
+**2008** URS Corporation • Barcelona, Spain
+
 # Education
 
 ### PhD, Hydrology
-**2016** Uppsala University, Uppsala, Sweden
+**2016** Uppsala University • Uppsala, Sweden
 
 ### MSc, Earth Sciences (Hydrology/hydrogeology)
-**2011** Uppsala University, Uppsala, Sweden
+**2011** Uppsala University • Uppsala, Sweden
 
 ### BSc, Geology
-**2009** Universitat Autònoma de Barcelona, Barcelona, Spain
+**2009** Universitat Autònoma de Barcelona • Barcelona, Spain
 
 ### ERASMUS Exchange program
-**2008** Université Joseph Fourier (Grenoble 1), Grenoble, France
+**2008** Université Joseph Fourier (Grenoble 1) • Grenoble, France
 
 <div class="line-separator"></div>
 
@@ -59,24 +75,6 @@ Villavägen 16
 
 <div class="line-separator"></div>
 
-# Other Employment
-
-### Laboratori Català de Control
-**2009** Lab technician intern • Barcelona, Spain
-
-* Quality control of soils and construction materials for civil engineering projects as well as water analyses.
-
-* Adoption of ISO rules.
-
-### URS  
-**2008** Consultant intern • Barcelona, Spain
-
-* Environmental control tests, soil decontamination and hydro-geological data processing.
-
-* Limnology field work for quality control of riverine systems.
-
-<div class="line-separator"></div>
-
 # Representation Duties
 
 **2014** PhD student representative at the Centre for Natural Disaster Science (CNDS) Program board
@@ -99,6 +97,7 @@ Python • Matlab • LaTeX • Markdown
 ArcGIS • QGIS • HBV
 
 ### Languages
-**Native:** Catalan • Spanish  
-**Fluent:** English • French  
-**Intermediate:** Swedish
+**Native or bilingual proficiency:** Catalan • Spanish  
+**Full professional proficiency:** English  
+**Professional working proficiency :** Swedish • French
+**Elementary proficiency:** German
