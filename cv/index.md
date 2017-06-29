@@ -12,39 +12,39 @@ Winterthurerstrasse 190
 
 <div class="line-separator"></div>
 
-*I am a PhD student in Hydrology in an interdisciplinary research group focusing on natural disasters. My research interests are on the interactions and feedbacks between the hydrological and social dimensions of flood risk management, on the use of innovative data types for flood estimation, and on the spatial and temporal scales of hydrological processes.*
+*I am a postdoctoral researcher in Hydrology working on the development of the HBV model for alpine areas. My research interests are on the interactions and feedbacks between the hydrological and social dimensions of flood risk management, on the use of innovative data types for flood estimation, and on the spatial and temporal scales of hydrological processes.*
 
 <div class="line-separator"></div>
 
 # Experience
 
-### Postdoctoral Researcher, Hydrology
+**Postdoctoral Researcher**  
 **2017** University of Zurich • Zurich, Switzerland
 
-### Graduate Teaching Assistant
+**Graduate Teaching Assistant**  
 **2011 - 2016** Uppsala University • Uppsala, Sweden
 
-### Graduate Research Assistant
+**Graduate Research Assistant**  
 **2011 - 2016** Uppsala University • Uppsala, Sweden
 
-### Lab technician intern
+**Lab technician intern**  
 **2009** Laboratori Català de Control • Barcelona, Spain
 
-### Consultant intern  
+**Consultant intern**  
 **2008** URS Corporation • Barcelona, Spain
 
 # Education
 
-### PhD, Hydrology
+**PhD, Hydrology**  
 **2016** Uppsala University • Uppsala, Sweden
 
-### MSc, Earth Sciences (Hydrology/hydrogeology)
+**MSc, Earth Sciences (Hydrology/hydrogeology)**  
 **2011** Uppsala University • Uppsala, Sweden
 
-### BSc, Geology
+**BSc, Geology**  
 **2009** Universitat Autònoma de Barcelona • Barcelona, Spain
 
-### ERASMUS Exchange program
+**ERASMUS Exchange program**  
 **2008** Université Joseph Fourier (Grenoble 1) • Grenoble, France
 
 <div class="line-separator"></div>
@@ -87,17 +87,17 @@ Winterthurerstrasse 190
 
 # Skills
 
-### Field work
+**Field work**  
 Campbell loggers • Hydro-meteorological sensors
 
-### Programming
+**Programming**  
 Python • Matlab • LaTeX • Markdown
 
-### Software
+**Software**  
 ArcGIS • QGIS • HBV
 
-### Languages
-**Native or bilingual proficiency:** Catalan • Spanish  
-**Full professional proficiency:** English  
-**Professional working proficiency :** Swedish • French
-**Elementary proficiency:** German
+**Languages
+*Native or bilingual proficiency:* Catalan • Spanish  
+*Full professional proficiency:* English  
+*Professional working proficiency :* Swedish • French  
+*Elementary proficiency:* German
