@@ -6,6 +6,8 @@ description: Publication list by Marc Girons Lopez
 
 # Peer-reviewed papers
 
+Breinl, K., Di Baldassarre, G., **Girons Lopez, M.**, Vico, G., Rutgersson, A. (2017) Can weather generation capture precipitation patterns across climates, spatial scales and under data scarcity? *Scientific Reports, In press*.
+
 **Girons Lopez, M.**, Di Baldassarre, G., Seibert, J. (2017), Impact of social preparedness on flood early warning systems, *Water Resources Research, 53*, doi:[10.1002/2016WR019387](http://onlinelibrary.wiley.com/doi/10.1002/2016WR019387/full){:target="_blank"}.
 
 Mbanguka, R. P., Lyon, S. W., Holmgren, K., **Girons Lopez, M.**, Jarsjö, J. (2016) Water Balance and Level Change of Lake Babati, Tanzania: Sensitivity to Hydroclimatic Forcings. *Water, 8(12), 572*. doi:[10.3390/w8120572](http://www.mdpi.com/2073-4441/8/12/572/html){:target="_blank"}.
@@ -17,8 +19,6 @@ Mbanguka, R. P., Lyon, S. W., Holmgren, K., **Girons Lopez, M.**, Jarsjö, J. (2
 <div class="line-separator"></div>
 
 # Manuscripts in preparation
-
-Breinl, K., Di Baldassarre, G., **Girons Lopez, M.**, Vico, G., Rutgersson, A. (2017) Can weather generation capture precipitation patterns across climates, spatial scales and under data scarcity? *Scientific Reports, under review*.
 
 Rivera, S., **Girons Lopez, M.**, Seibert, J., Minsker, B. (2017). Probabilistic Flood Mapping Using Volunteered Geographical Information. *Manuscript in preparation*.
 
