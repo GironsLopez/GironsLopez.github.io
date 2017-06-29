@@ -96,7 +96,7 @@ Python • Matlab • LaTeX • Markdown
 **Software**  
 ArcGIS • QGIS • HBV
 
-**Languages
+**Languages**  
 *Native or bilingual proficiency:* Catalan • Spanish  
 *Full professional proficiency:* English  
 *Professional working proficiency :* Swedish • French  
