@@ -94,7 +94,7 @@ Campbell loggers • Hydro-meteorological sensors
 Python • Matlab • LaTeX • Markdown
 
 **Software**  
-ArcGIS • QGIS • HBV
+ArcGIS • QGIS • HBV • Git
 
 **Languages**  
 *Native or bilingual proficiency:* Catalan • Spanish  
