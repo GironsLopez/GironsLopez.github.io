@@ -15,4 +15,4 @@ Hey, skiing is cool when there is snow!
 
 <div class="line-separator"></div>
 
-*Site created using the *Jekyll Now* template from **Barry Clark** ([barryclark/jekyll-now](https://github.com/barryclark/jekyll-now){:target="_blank"})*
+Site created using the *Jekyll Now* template from **Barry Clark** ([barryclark/jekyll-now](https://github.com/barryclark/jekyll-now){:target="_blank"})
