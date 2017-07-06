@@ -14,7 +14,7 @@ Mbanguka, R. P., Lyon, S. W., Holmgren, K., **Girons Lopez, M.**, Jarsjö, J. (2
 
 **Girons Lopez, M.**, Seibert, J. (2016). Influence of Hydro-Meteorological Data Spatial Aggregation on Streamflow Modelling. *Journal of Hydrology, 541*, pp. 1212-1220. doi:[10.1016/j.jhydrol.2016.08.026](http://www.sciencedirect.com/science/article/pii/S0022169416305170){:target="_blank"}
 
-**Girons Lopez, M.**, Wennerström, H., Nordén, L.-Å., Seibert, J. (2015) Location and density of Rain Gauges for the Estimation of Spatial Varying Precipitation. *Geografiska Annaler. Series A, Physical Geography, 97*, pp. 167-179. doi:[10.1111/geoa.12094](http://onlinelibrary.wiley.com/doi/10.1111/geoa.12094/abstract){:target="_blank"}.
+**Girons Lopez, M.**, Wennerström, H., Nordén, L.-Å., Seibert, J. (2015) Location and density of Rain Gauges for the Estimation of Spatial Varying Precipitation. *Geografiska Annaler. Series A, Physical Geography, 97*, pp. 167-179. doi:[10.1111/geoa.12094](http://onlinelibrary.wiley.com/doi/10.1111/geoa.12094/abstract){:target="_blank"}
 
 <div class="line-separator"></div>
 
