@@ -48,7 +48,7 @@ Rivera, S. J., **Girons Lopez, M.**, Seibert, J., Minsker, B. S. (2016) Probabil
 
 **Girons Lopez, M.**, Di Baldassarre, G., Grabs, T., Halldin, S., Seibert, J. (2016) Exploring the Role of Social Memory of Floods for Designing Flood Early Warning Operations. *EGU General Assembly, Vienna, Austria*. [Abstract](http://meetingorganizer.copernicus.org/EGU2016/EGU2016-15179.pdf){:target="_blank"}
 
-Rivera, S., **Girons Lopez, M.**, Minsker, B., Seibert, J. (2015) Probabilistic Flood Mapping using Volunteered Geographical Information. *3rd CUAHSI Conference on Hydroinformatics, Tuscaloosa, Alabama*.
+Rivera, S. J., **Girons Lopez, M.**, Minsker, B. S., Seibert, J. (2015) Probabilistic Flood Mapping using Volunteered Geographical Information. *3rd CUAHSI Conference on Hydroinformatics, Tuscaloosa, Alabama*.
 
 **Girons Lopez, M.**, Seibert, J., Halldin, S., Wennerström, H. (2013) Value of distributed precipitation for flood early warning: A case study for a pre-alpine catchment in Switzerland. *Knowledge for the Future - Joint IAHS-IAPSO-IASPEI Assembly, Gothenburg, Sweden*. [Programme](http://cx.devinform.se/congrex_80/IAHS-IAPSO-IASPEI-Joint-assembly-2013-FINAL_PROGRAMME.pdf)
 
