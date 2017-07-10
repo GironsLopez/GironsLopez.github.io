@@ -44,7 +44,7 @@ Breinl, K., Di Baldassarre, G., **Girons Lopez, M.** (2017) Reduced-complexity m
 
 Rivera, S. J., **Girons Lopez, M.**, Seibert, J., Minsker, B. S. (2016) Probabilistic Flood Mapping using Volunteered Geographical Information. *AGU Fall Meeting, San Francisco, USA*. [Abstract](https://agu.confex.com/agu/fm16/meetingapp.cgi/Paper/134525){:target="_blank"}
 
-**Girons Lopez, M.**, Di Baldassarre, G., Seibert, J. (2016) Impact of Social Memory on the Efficiency of Flood Early Warning Systems (FEWS). *13th Congress INTERPRAEVENT 2016, Lucerne, Switzerland*. [Poster](http://interpraevent2016.ch/assets/editor/files/2016_05_30_18_31_16IP_2016_POSTER108.pdf){:target="_blank"} | [Extended abstract](http://www.interpraevent.at/palm-cms/upload_files/Publikationen/Tagungsbeitraege/2016_EA_220.pdf){:target="_blank"}
+**Girons Lopez, M.**, Di Baldassarre, G., Seibert, J. (2016) Impact of Social Memory on the Efficiency of Flood Early Warning Systems (FEWS). *13th Congress INTERPRAEVENT 2016, Lucerne, Switzerland*. [Poster](http://interpraevent2016.ch/assets/editor/files/2016_05_30_18_31_16IP_2016_POSTER108.pdf){:target="_blank"} & [Extended abstract](http://www.interpraevent.at/palm-cms/upload_files/Publikationen/Tagungsbeitraege/2016_EA_220.pdf){:target="_blank"}
 
 **Girons Lopez, M.**, Di Baldassarre, G., Grabs, T., Halldin, S., Seibert, J. (2016) Exploring the Role of Social Memory of Floods for Designing Flood Early Warning Operations. *EGU General Assembly, Vienna, Austria*. [Abstract](http://meetingorganizer.copernicus.org/EGU2016/EGU2016-15179.pdf){:target="_blank"}
 
