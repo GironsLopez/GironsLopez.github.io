@@ -50,6 +50,6 @@ Rivera, S. J., **Girons Lopez, M.**, Seibert, J., Minsker, B. S. (2016) Probabil
 
 Rivera, S. J., **Girons Lopez, M.**, Minsker, B. S., Seibert, J. (2015) Probabilistic Flood Mapping using Volunteered Geographical Information. *3rd CUAHSI Conference on Hydroinformatics, Tuscaloosa, Alabama*.
 
-**Girons Lopez, M.**, Seibert, J., Halldin, S., Wennerström, H. (2013) Value of distributed precipitation for flood early warning: A case study for a pre-alpine catchment in Switzerland. *Knowledge for the Future - Joint IAHS-IAPSO-IASPEI Assembly, Gothenburg, Sweden*. [Programme](http://cx.devinform.se/congrex_80/IAHS-IAPSO-IASPEI-Joint-assembly-2013-FINAL_PROGRAMME.pdf)
+**Girons Lopez, M.**, Seibert, J., Halldin, S., Wennerström, H. (2013) Value of distributed precipitation for flood early warning: A case study for a pre-alpine catchment in Switzerland. *Knowledge for the Future - Joint IAHS-IAPSO-IASPEI Assembly, Gothenburg, Sweden*. [Programme](http://cx.devinform.se/congrex_80/IAHS-IAPSO-IASPEI-Joint-assembly-2013-FINAL_PROGRAMME.pdf){:target="_blank"}
 
 Mbanguka, R. P., **Girons Lopez, M.**, Jarsjö, J. (2013) A Water Balance Model for Assessing Hydro Climatic Variability in Tropical Lake Systems: Application to Lake Babati and Lake Emakat, Northern Tanzania. *EGU General Assembly, Vienna, Austria*. [Abstract](http://meetingorganizer.copernicus.org/EGU2013/EGU2013-3154.pdf){:target="_blank"}
