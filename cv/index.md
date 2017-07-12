@@ -19,7 +19,7 @@ Winterthurerstrasse 190
 # Experience
 
 **Postdoctoral Researcher**  
-**2017 --** University of Zurich • Zurich, Switzerland
+**2017 --     ** University of Zurich • Zurich, Switzerland
 
 **Graduate Teaching Assistant**  
 **2011 -- 2016** Uppsala University • Uppsala, Sweden
