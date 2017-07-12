@@ -19,13 +19,13 @@ Winterthurerstrasse 190
 # Experience
 
 **Postdoctoral Researcher**  
-**2017** University of Zurich • Zurich, Switzerland
+**2017 --** University of Zurich • Zurich, Switzerland
 
 **Graduate Teaching Assistant**  
-**2011 - 2016** Uppsala University • Uppsala, Sweden
+**2011 -- 2016** Uppsala University • Uppsala, Sweden
 
 **Graduate Research Assistant**  
-**2011 - 2016** Uppsala University • Uppsala, Sweden
+**2011 -- 2016** Uppsala University • Uppsala, Sweden
 
 **Lab technician intern**  
 **2009** Laboratori Català de Control • Barcelona, Spain
