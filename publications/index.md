@@ -6,7 +6,7 @@ description: Publication list by Marc Girons Lopez
 
 # Peer-reviewed papers
 
-Breinl, K., Di Baldassarre, G., **Girons Lopez, M.**, Hagenlocher, M., Vico, G., Rutgersson, A. (2017) Can weather generation capture precipitation patterns across climates, spatial scales and under data scarcity? *Scientific Reports, In press*.
+Breinl, K., Di Baldassarre, G., **Girons Lopez, M.**, Hagenlocher, M., Vico, G., Rutgersson, A. (2017) Can weather generation capture precipitation patterns across climates, spatial scales and under data scarcity? *Scientific Reports 7:5449*. doi:[10.1038/s41598-017-05822-y](https://www.nature.com/articles/s41598-017-05822-y){:target="_blank"}
 
 **Girons Lopez, M.**, Di Baldassarre, G., Seibert, J. (2017), Impact of social preparedness on flood early warning systems, *Water Resources Research, 53*. doi:[10.1002/2016WR019387](http://onlinelibrary.wiley.com/doi/10.1002/2016WR019387/full){:target="_blank"}
 
