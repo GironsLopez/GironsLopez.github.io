@@ -75,7 +75,7 @@ Winterthurerstrasse 190
 
 * *Tiny Plankton could have a big impact on Earth's climate*, Spanish translation [Link](http://www.egu.eu/education/planet-press/13/tiny-plankton-could-have-a-big-impact-on-earths-climate/){:target="_blank"}
 
-* *Half a degree makes a world of difference*, Spanish translation [link](http://www.egu.eu/education/planet-press/38/half-a-degree-makes-a-world-of-difference/){:target="_blank"}
+* *Half a degree makes a world of difference*, Spanish translation [Link](http://www.egu.eu/education/planet-press/38/half-a-degree-makes-a-world-of-difference/){:target="_blank"}
 
 <div class="line-separator"></div>
 

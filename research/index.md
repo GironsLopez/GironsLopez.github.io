@@ -10,7 +10,7 @@ description: Current research and further interests
 
 <div class="line-separator"></div>
 
-## PhD research: Information Needs for Water Resource and Risk Management - Hydro-Meteorological Data Value and Non-Traditional Informaiton
+## PhD research: Information Needs for Water Resource and Risk Management -- Hydro-Meteorological Data Value and Non-Traditional Informaiton
 
 ![PhDresearch]({{ site.baseurl }}/img/PhDresearch.png)
 
