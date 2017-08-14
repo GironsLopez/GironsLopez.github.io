@@ -63,15 +63,19 @@ Winterthurerstrasse 190
 
 <div class="line-separator"></div>
 
-# Other Academic Activities
+# Other Activities
 
-**2016** Translator for EGU's Planet Press outreach initiative
+**2016 -- 2017** Translator for EGU's Planet Press outreach initiative
 
-* *Picturing the Northern Lights* [Link](http://www.egu.eu/education/planet-press/11/picturing-the-northern-lights/){:target="_blank"}
+* *High altitudes help slow down Antarctica’s warming*, Spanish translation [Link](http://www.egu.eu/education/planet-press/80/high-altitudes-help-slow-down-antarcticas-warming/){:target="_blank"}
 
-* *Tiny Plankton could have a big impact on Earth's climate* [Link](http://www.egu.eu/education/planet-press/13/tiny-plankton-could-have-a-big-impact-on-earths-climate/){:target="_blank"}
+* *Rising seas and erosion spell trouble for coral reefs*, Spanish translation [Link](http://www.egu.eu/education/planet-press/79/rising-seas-and-erosion-spell-trouble-for-coral-reefs/){:target="_blank"}
 
-* *Half a degree makes a world of difference* [link](http://www.egu.eu/education/planet-press/38/half-a-degree-makes-a-world-of-difference/){:target="_blank"}
+* *Picturing the Northern Lights*, Spanish translation [Link](http://www.egu.eu/education/planet-press/11/picturing-the-northern-lights/){:target="_blank"}
+
+* *Tiny Plankton could have a big impact on Earth's climate*, Spanish translation [Link](http://www.egu.eu/education/planet-press/13/tiny-plankton-could-have-a-big-impact-on-earths-climate/){:target="_blank"}
+
+* *Half a degree makes a world of difference*, Spanish translation [link](http://www.egu.eu/education/planet-press/38/half-a-degree-makes-a-world-of-difference/){:target="_blank"}
 
 <div class="line-separator"></div>
 
