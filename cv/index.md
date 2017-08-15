@@ -141,5 +141,5 @@ Swedish driving license (B)
 <div class="line-separator"></div>
 
 <p align="center">
-<i>References available on request.<\i>
+<i>References available on request.</i>
 </p>
