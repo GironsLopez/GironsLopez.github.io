@@ -14,19 +14,19 @@ description: Teaching experience
 # Instructor
 
 ### Hydrology and Water Resource Management
-**Autumn 2012 -- 2016** Uppsala University • Uppsala, Sweden
+**Autumn 2012 -- 2016** Uppsala University • Uppsala, Sweden  
 *I thaught the chapters related to atmospheric water, I led field runoff measurements and a project on water balance estimation, and I wrote and graded exams.*
 
 ### Field Methods in Earth Science
-**Spring 2015 -- 2016** Uppsala University • Uppsala, Sweden
+**Spring 2015 -- 2016** Uppsala University • Uppsala, Sweden  
 *I taught how to use data loggers for environmental modelling and I led a project on evapotranspiration estimation based on field measurements.*
 
 ### Groundwater and Surface Water Modelling
-**Spring 2015 -- 2016** Uppsala University • Uppsala, Sweden
+**Spring 2015 -- 2016** Uppsala University • Uppsala, Sweden  
 *I taught the fundaments of hydrological modelling and the HBV model, I led a project on hydrological modelling and I held a seminar on the same topic.*
 
 ### Climate and Landscape
-**Spring 2013** Uppsala University • Uppsala, Sweden
+**Spring 2013** Uppsala University • Uppsala, Sweden  
 *I taught the chapters related with water in the landscape.*
 
 <div class="line-separator"></div>
@@ -34,41 +34,41 @@ description: Teaching experience
 # Teaching Assistant
 
 ### Meteorology, hydrology and Environmental Measurement Techniques
-**Autumn 2013 -- 2016** Uppsala University • Uppsala, Sweden
+**Autumn 2013 -- 2016** Uppsala University • Uppsala, Sweden  
 *I led numerical exercise solving sessions, field measurements of a number of hydrological processes and a seminar on processing field data.*
 
 ### GIS for Water Resources
-**Spring 2012 -- 2016** Uppsala University • Uppsala, Sweden
+**Spring 2012 -- 2016** Uppsala University • Uppsala, Sweden  
 *I wrote laboratory exercise instructions and assisted students during laboratory work.*
 
 ### Snow Physics and Hydrology
-**Autumn 2015** Uppsala University • Uppsala, Sweden
+**Autumn 2015** Uppsala University • Uppsala, Sweden  
 *I assisted students during laboratory work.*
 
 ### Soil Mechanics and Engineering Geology
-**Autumn 2012 -- 2015** Uppsala University • Uppsala, Sweden
+**Autumn 2012 -- 2015** Uppsala University • Uppsala, Sweden  
 *I reviewed concepts of classical mechanics for the students at the beginning of the course and I graded exercises.*
 
 ### Field Course in Earth Science II
-**Spring 2013 -- 2014** Uppsala University • Uppsala, Sweden
+**Spring 2013 -- 2014** Uppsala University • Uppsala, Sweden  
 *I led field measurements of a number of hydrological processes.*
 
 ### Groundwater and Runoff modelling
-**Autumn 2012 -- 2014** Uppsala University • Uppsala, Sweden
+**Autumn 2012 -- 2014** Uppsala University • Uppsala, Sweden  
 *I led a project on hydrological modelling using HBV and I graded reports.*
 
 ### Runoff
-**Autumn 2012 -- 2014** Uppsala University • Uppsala, Sweden
+**Autumn 2012 -- 2014** Uppsala University • Uppsala, Sweden  
 *I assisted students during laboratory work.*
 
 ### Distribution and Treatment of Drinking Water
-**Autumn 2011 -- 2012** Uppsala University • Uppsala, Sweden
+**Autumn 2011 -- 2012** Uppsala University • Uppsala, Sweden  
 *I assisted students during laboratory work, and I graded exercises and exams.*
 
 ### Statistical Methods in Hydrology
-**Spring 2012** Uppsala University • Uppsala, Sweden
+**Spring 2012** Uppsala University • Uppsala, Sweden  
 *I graded exams.*
 
 ### Global Hydrology
-**Autumn 2011** Uppsala University • Uppsala, Sweden
+**Autumn 2011** Uppsala University • Uppsala, Sweden  
 *I led topographic field measurements.*
