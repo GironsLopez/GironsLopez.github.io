@@ -17,35 +17,35 @@ Winterthurerstrasse 190
 # Experience
 
 ### Postdoctoral Researcher
-**2017 -- 2018** University of Zurich • Zurich, Switzerland
-My research focuses on improving the realism of the snow routine of the HBV rainfall-runoff model while maintaining a low model uncertainty.
+**2017 -- 2018** University of Zurich • Zurich, Switzerland  
+*My research focuses on improving the realism of the snow routine of the HBV rainfall-runoff model while maintaining a low model uncertainty.*
 
 ### Graduate Teaching Assistant
-**2011 -- 2016** Uppsala University • Uppsala, Sweden
-Lecturing, leading seminars, and leading and assisting in laboratory and field activities for both undergraduate and graduate courses.
+**2011 -- 2016** Uppsala University • Uppsala, Sweden  
+*Lecturing, leading seminars, and leading and assisting in laboratory and field activities for both undergraduate and graduate courses.*
 
 ### Graduate Research Assistant
-**2011 -- 2016** Uppsala University • Uppsala, Sweden
-Design and implementation of hydrology research projects within hydrology, including defining research questions, modelling, data analysis, and reporting scientific results.
+**2011 -- 2016** Uppsala University • Uppsala, Sweden  
+*Design and implementation of hydrology research projects within hydrology, including defining research questions, modelling, data analysis, and reporting scientific results.*
 
 ### Lab technician intern
-**2009** Laboratori Català de Control • Barcelona, Spain
-Quality control tests of cement, concrete and anchorages. Tests of soil properties, water sampling and analysis. Defining procedures for adopting ISO rules.
+**2009** Laboratori Català de Control • Barcelona, Spain  
+*Quality control tests of cement, concrete and anchorages. Tests of soil properties, water sampling and analysis. Defining procedures for adopting ISO rules.*
 
 ### Consultant intern
-**2008** URS Corporation • Barcelona, Spain
-Environmental control tests of petrol stations, soil decontamination, and hydrogeological data processing. Fauna and sediment sampling for the quality
-control of rivers and dams.
+**2008** URS Corporation • Barcelona, Spain  
+*Environmental control tests of petrol stations, soil decontamination, and hydrogeological data processing. Fauna and sediment sampling for the quality
+control of rivers and dams.*
 
 # Education
 
 ### PhD, Hydrology
-**2016** Uppsala University • Uppsala, Sweden
-Thesis: Information Needs for Water Resource and Risk Management: Hydro-Meteorological Data Value and Non-Traditional Information.
+**2016** Uppsala University • Uppsala, Sweden  
+*Thesis: Information Needs for Water Resource and Risk Management: Hydro-Meteorological Data Value and Non-Traditional Information.*
 
 ### MSc, Earth Sciences (Hydrology/hydrogeology)
-**2011** Uppsala University • Uppsala, Sweden
-Thesis: Modelling Climatic and Hydrological Variability in Lake Babati, Northern Tanzania.
+**2011** Uppsala University • Uppsala, Sweden  
+*Thesis: Modelling Climatic and Hydrological Variability in Lake Babati, Northern Tanzania.*
 
 ### BSc, Geology
 **2009** Universitat Autònoma de Barcelona • Barcelona, Spain
