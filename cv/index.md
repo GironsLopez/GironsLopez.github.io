@@ -138,4 +138,8 @@ Campbell loggers • Hydro-meteorological sensors
 ### Other
 Swedish driving license (B)
 
-*References available on request.*
+<div class="line-separator"></div>
+
+<p align="center">
+<*References available on request.*>
+</p>
