@@ -12,7 +12,7 @@ Winterthurerstrasse 190
 
 <div class="line-separator"></div>
 
-*I am a postdoctoral researcher in Hydrology working on the development of the HBV model for alpine areas. My research interests are on the interactions and feedbacks between the hydrological and social dimensions of flood risk management, on the use of innovative data types for flood estimation, and on the spatial and temporal scales of hydrological processes.*
+*I am a hydrologist with an interdisciplinary background working as postdoctoral researcher at the University of Zurich. I aim at contributing to build up knowledge and understanding about water related issues to make society more resilient and sustainable. I believe in continuous learning and communication and I am also interested in societal behaviour and data analysis. Everything is connected!*
 
 <div class="line-separator"></div>
 
@@ -20,26 +20,34 @@ Winterthurerstrasse 190
 
 ### Postdoctoral Researcher
 **2017 -- 2018** University of Zurich • Zurich, Switzerland
+My research focuses on improving the realism of the snow routine of the HBV rainfall-runoff model while maintaining a low model uncertainty.
 
 ### Graduate Teaching Assistant
 **2011 -- 2016** Uppsala University • Uppsala, Sweden
+Lecturing, leading seminars, and leading and assisting in laboratory and field activities for both undergraduate and graduate courses.
 
 ### Graduate Research Assistant
 **2011 -- 2016** Uppsala University • Uppsala, Sweden
+Design and implementation of hydrology research projects within hydrology, including defining research questions, modelling, data analysis, and reporting scientific results.
 
 ### Lab technician intern
 **2009** Laboratori Català de Control • Barcelona, Spain
+Quality control tests of cement, concrete and anchorages. Tests of soil properties, water sampling and analysis. Defining procedures for adopting ISO rules.
 
 ### Consultant intern
 **2008** URS Corporation • Barcelona, Spain
+Environmental control tests of petrol stations, soil decontamination, and hydrogeological data processing. Fauna and sediment sampling for the quality
+control of rivers and dams.
 
 # Education
 
 ### PhD, Hydrology
 **2016** Uppsala University • Uppsala, Sweden
+Thesis: Information Needs for Water Resource and Risk Management: Hydro-Meteorological Data Value and Non-Traditional Information.
 
 ### MSc, Earth Sciences (Hydrology/hydrogeology)
 **2011** Uppsala University • Uppsala, Sweden
+Thesis: Modelling Climatic and Hydrological Variability in Lake Babati, Northern Tanzania.
 
 ### BSc, Geology
 **2009** Universitat Autònoma de Barcelona • Barcelona, Spain
@@ -51,21 +59,34 @@ Winterthurerstrasse 190
 
 # Grants, Awards, & Honours
 
-**2016** EGU 2016 Photo contest winner [[Link]](http://blogs.egu.eu/geolog/2016/04/22/announcing-the-winners-of-the-egu-photo-contest-2016/){:target="_blank"}
+### Photo contest winner
+**2016** EGU  
+*Winner of the 2016 European Geosciences Union Photo contest with the
+photography ”[Living Flows](http://blogs.egu.eu/geolog/2016/04/22/announcing-the-winners-of-the-egu-photo-contest-2016/){:target="_blank"}”.*
 
-**2015** CUAHSI Research Fellowship to participate in the first National Flood Interoperability Experiment ([NFIE](https://www.cuahsi.org/NFIE)) at the US National Water Center (Tuscaloosa, Alabama).
+### Research Fellowship
+**2015** CUAHSI  
+*I was sponsored by the Consortium of University for the Advancement of Hydrological Sciences (CUAHSI) to participate in the first National Flood Interoperability Experiment ([NFIE](https://www.cuahsi.org/NFIE)) at the US National Water Center in Tuscaloosa (Alabama).*
 
-**2014** Liljewalchs travel grant
+### Travel grant
+**2014** Liljewalchs Foundation  
+*I obtained a travel grant to participate in the EGU 2014 General Assembly in Vienna (Austria) and present the results of my research.*
 
-**2010** The Swedish-Spanish Foundation for the Promotion of Education and Studies Scholarship
+### Scholarship
+**2010** The Swedish-Spanish Foundation  
+*I obtained a scholarship from the Swedish-Spanish Foundation for the Promotion of Education and Studies to help cover the expenses as a Master student in Uppsala University.*
 
-**2007** ERASMUS Programme Scholarship
+### Scholarship
+**2007** ERASMUS Programme  
+*I obtained a scholarship to help cover the expenses of spending a year at the Université Joseph Fourier in Grenoble (France) as exchange student.*
 
 <div class="line-separator"></div>
 
 # Other Activities
 
-**2016 -- 2017** Translator for EGU's Planet Press outreach initiative
+### Translator
+**2016 -- 2017** Planet Press  
+*I translate short scientific articles for kids from the European Geosciences Union (EGU) Planet Press initiative into Spanish.*
 
 * *High altitudes help slow down Antarctica’s warming*, Spanish translation [[Link]](http://www.egu.eu/education/planet-press/80/high-altitudes-help-slow-down-antarcticas-warming/){:target="_blank"}
 
@@ -77,30 +98,38 @@ Winterthurerstrasse 190
 
 * *Half a degree makes a world of difference*, Spanish translation [[Link]](http://www.egu.eu/education/planet-press/38/half-a-degree-makes-a-world-of-difference/){:target="_blank"}
 
-**2013** Volunteer supporting the organisation of the 2013 IAHS, IAPSO, IAPSEI Joint Assembly in Gothenburg (Sweden)
+### Volunteer
+**2013** IAHS  
+*I volunteered supporting the organisation of the 2013 IAHS, IAPSO, IAPSEI Joint Assembly.*
 
 <div class="line-separator"></div>
 
 # Representation Duties
 
-**2014** PhD student representative at the Centre for Natural Disaster Science (CNDS) Program board
+### PhD student representative
+**2014** CNDS • Uppsala, Sweden  
+*I was elected as PhD student representative to the Program Board of the Centre for Natural Disaster Science (CNDS).*
 
-**2013** PhD student representative at the Department of Earth Sciences Board, Uppsala University, Uppsala, Sweden
+### PhD student representative
+**2013** Uppsala University • Uppsala, Sweden  
+*I was elected as PhD student representative to the Board of the Department of Earth Sciences at Uppsala University.*
 
-**2007** Student representative at the Geology Section Board, Universitat Autònoma de Barcelona, Barcelona, Spain
+### Student representative
+**2007** Universitat Autònoma de Barcelona • Barcelona, Spain  
+*I was elected as student representative to the Board of the Section of Geology at Universitat Autònoma de Barcelona.*
 
 <div class="line-separator"></div>
 
 # Skills
 
-### Instrumentation
-Campbell loggers • Hydro-meteorological sensors
-
 ### Programming
 Python • Matlab • LaTeX • Markdown
 
 ### Software
-ArcGIS • QGIS • HBV • Git
+ArcGIS • QGIS • HBV • Git • Inkscape • Linux
+
+### Instrumentation
+Campbell loggers • Hydro-meteorological sensors
 
 ### Languages
 *Native or bilingual proficiency:* Catalan • Spanish  
