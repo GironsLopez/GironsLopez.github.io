@@ -10,8 +10,6 @@ Department of Geography
 Winterthurerstrasse 190  
 8057 Zurich, Switzerland
 
-<div class="line-separator"></div>
-
 *I am a hydrologist with an interdisciplinary background working as postdoctoral researcher at the University of Zurich. I aim at contributing to build up knowledge and understanding about water related issues to make society more resilient and sustainable. I believe in continuous learning and communication and I am also interested in societal behaviour and data analysis. Everything is connected!*
 
 <div class="line-separator"></div>
