@@ -18,48 +18,48 @@ Winterthurerstrasse 190
 
 # Experience
 
-**Postdoctoral Researcher**  
+### Postdoctoral Researcher
 **2017 -- 2018** University of Zurich • Zurich, Switzerland
 
-**Graduate Teaching Assistant**  
+### Graduate Teaching Assistant
 **2011 -- 2016** Uppsala University • Uppsala, Sweden
 
-**Graduate Research Assistant**  
+### Graduate Research Assistant
 **2011 -- 2016** Uppsala University • Uppsala, Sweden
 
-**Lab technician intern**  
+### Lab technician intern
 **2009** Laboratori Català de Control • Barcelona, Spain
 
-**Consultant intern**  
+### Consultant intern
 **2008** URS Corporation • Barcelona, Spain
 
 # Education
 
-**PhD, Hydrology**  
+### PhD, Hydrology
 **2016** Uppsala University • Uppsala, Sweden
 
-**MSc, Earth Sciences (Hydrology/hydrogeology)**  
+### MSc, Earth Sciences (Hydrology/hydrogeology)
 **2011** Uppsala University • Uppsala, Sweden
 
-**BSc, Geology**  
+### BSc, Geology
 **2009** Universitat Autònoma de Barcelona • Barcelona, Spain
 
-**ERASMUS Exchange program**  
+### ERASMUS Exchange program
 **2008** Université Joseph Fourier (Grenoble 1) • Grenoble, France
 
 <div class="line-separator"></div>
 
 # Grants, Awards, & Honours
 
-**2016** EGU Photo contest 2016 winner [Link](http://blogs.egu.eu/geolog/2016/04/22/announcing-the-winners-of-the-egu-photo-contest-2016/){:target="_blank"}
+**2016** EGU 2016 Photo contest winner [[Link]](http://blogs.egu.eu/geolog/2016/04/22/announcing-the-winners-of-the-egu-photo-contest-2016/){:target="_blank"}
 
-**2015** CUAHSI Research Fellowship to participate in the National Flood Interoperability Experiment ([NFIE](https://www.cuahsi.org/NFIE)) at the US National Water Center (Tuscaloosa, Alabama).
+**2015** CUAHSI Research Fellowship to participate in the first National Flood Interoperability Experiment ([NFIE](https://www.cuahsi.org/NFIE)) at the US National Water Center (Tuscaloosa, Alabama).
 
 **2014** Liljewalchs travel grant
 
 **2010** The Swedish-Spanish Foundation for the Promotion of Education and Studies Scholarship
 
-**2007** ERASMUS Scholarship
+**2007** ERASMUS Programme Scholarship
 
 <div class="line-separator"></div>
 
@@ -67,15 +67,17 @@ Winterthurerstrasse 190
 
 **2016 -- 2017** Translator for EGU's Planet Press outreach initiative
 
-* *High altitudes help slow down Antarctica’s warming*, Spanish translation [Link](http://www.egu.eu/education/planet-press/80/high-altitudes-help-slow-down-antarcticas-warming/){:target="_blank"}
+* *High altitudes help slow down Antarctica’s warming*, Spanish translation [[Link]](http://www.egu.eu/education/planet-press/80/high-altitudes-help-slow-down-antarcticas-warming/){:target="_blank"}
 
-* *Rising seas and erosion spell trouble for coral reefs*, Spanish translation [Link](http://www.egu.eu/education/planet-press/79/rising-seas-and-erosion-spell-trouble-for-coral-reefs/){:target="_blank"}
+* *Rising seas and erosion spell trouble for coral reefs*, Spanish translation [[Link]](http://www.egu.eu/education/planet-press/79/rising-seas-and-erosion-spell-trouble-for-coral-reefs/){:target="_blank"}
 
-* *Picturing the Northern Lights*, Spanish translation [Link](http://www.egu.eu/education/planet-press/11/picturing-the-northern-lights/){:target="_blank"}
+* *Picturing the Northern Lights*, Spanish translation [[Link]](http://www.egu.eu/education/planet-press/11/picturing-the-northern-lights/){:target="_blank"}
 
-* *Tiny Plankton could have a big impact on Earth's climate*, Spanish translation [Link](http://www.egu.eu/education/planet-press/13/tiny-plankton-could-have-a-big-impact-on-earths-climate/){:target="_blank"}
+* *Tiny Plankton could have a big impact on Earth's climate*, Spanish translation [[Link]](http://www.egu.eu/education/planet-press/13/tiny-plankton-could-have-a-big-impact-on-earths-climate/){:target="_blank"}
 
-* *Half a degree makes a world of difference*, Spanish translation [Link](http://www.egu.eu/education/planet-press/38/half-a-degree-makes-a-world-of-difference/){:target="_blank"}
+* *Half a degree makes a world of difference*, Spanish translation [[Link]](http://www.egu.eu/education/planet-press/38/half-a-degree-makes-a-world-of-difference/){:target="_blank"}
+
+**2013** Volunteer supporting the organisation of the 2013 IAHS, IAPSO, IAPSEI Joint Assembly in Gothenburg (Sweden)
 
 <div class="line-separator"></div>
 
@@ -91,17 +93,22 @@ Winterthurerstrasse 190
 
 # Skills
 
-**Field work**  
+### Instrumentation
 Campbell loggers • Hydro-meteorological sensors
 
-**Programming**  
+### Programming
 Python • Matlab • LaTeX • Markdown
 
-**Software**  
+### Software
 ArcGIS • QGIS • HBV • Git
 
-**Languages**  
+### Languages
 *Native or bilingual proficiency:* Catalan • Spanish  
 *Full professional proficiency:* English  
 *Professional working proficiency :* Swedish • French  
 *Elementary proficiency:* German
+
+### Other
+Swedish driving license (B)
+
+*References available on request.*
