@@ -57,6 +57,10 @@ control of rivers and dams.*
 
 # Grants, Awards, & Honours
 
+### Travel grant
+**2017** Swiss Association of Geography
+*I obtained a travel grant from the Swiss Association of Geography to participate in the [first Finse International Snow Workshop](http://www.mn.uio.no/geo/english/research/projects/escymo/snowhow_escymo_workshop_flyer.pdf){:target="_blank"} in Finse (Norway) and present the results of my research.*
+
 ### Photo contest winner
 **2016** EGU  
 *Winner of the 2016 European Geosciences Union Photo contest with the
