@@ -18,6 +18,12 @@ Mbanguka, R. P., Lyon, S. W., Holmgren, K., **Girons Lopez, M.**, Jarsjö, J. (2
 
 <div class="line-separator"></div>
 
+# Manuscripts in review
+
+Di Baldassarre, G., Nohrstedt, D., Mård, J., Burchardt, S., Albin, C., Granberg, M., Nyberg, L., Nyman, M., Young, S., Walch, C., Parker, C., Deegan, F. M., Fuentes Andino, D., **Girons Lopez, M.**, Rhodes, E., Troll, V. R., Bondesson, S., Breinl, K. (2018) An Integrative research framework to unravel the interplay of natural hazards and vulnerabilities. *Earth's Future*
+
+<div class="line-separator"></div>
+
 # Manuscripts in preparation
 
 Rivera, S. J., **Girons Lopez, M.**, Seibert, J., Minsker, B. S. (2017). Probabilistic Flood Mapping Using Volunteered Geographical Information. *Manuscript in preparation*.
