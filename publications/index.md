@@ -42,6 +42,10 @@ Rivera, S. J., **Girons Lopez, M.**, Seibert, J., Minsker, B. S. (2017). Flood d
 
 # Conference contributions
 
+**Girons Lopez, M.**, Vis, M., Seibert, J. (2018) Realism versus simplicity in the snow routine of the HBV model. *SnowHydro 2018, Heidelberg, Germany*. [[Programme]](http://www.geog.uni-heidelberg.de/md/chemgeo/geog/hydro/snowhydro_final-program.pdf){:target="_blank"}
+
+Fourniadis, Y., Free, M., Manning, J., Beckett, O., Bolch, T., **Girons Lopez, M.** (2018) Impact of Climate Change on Glaciers and Glacial Runoff in Tajikistan. *New Dimensions for Natural Hazards in Asia: An AOGS-EGU Joint Conference, Tagaytay, Philippines*. [[Programme]](http://nathazards.org/doc/Presentation_Schedule.pdf){:target="_blank"}
+
 **Girons Lopez, M.**, Vis, M., Seibert, J. (2017) Realism versus simplicity in the snow routine of the HBV model. *EGU General Assembly, Vienna, Austria*. [[Abstract]](http://meetingorganizer.copernicus.org/EGU2017/EGU2017-13395.pdf){:target="_blank"}
 
 **Girons Lopez, M.**, Di Baldassarre, G., Seibert, J. (2017) Strengthening flood warning systems: the benefits of encouraging social preparedness. *EGU General Assembly, Vienna, Austria*. [[Abstract]](http://meetingorganizer.copernicus.org/EGU2017/EGU2017-14212-1.pdf){:target="_blank"}
