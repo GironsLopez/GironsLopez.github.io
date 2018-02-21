@@ -6,6 +6,8 @@ description: Publication list by Marc Girons Lopez
 
 # Peer-reviewed papers
 
+Di Baldassarre, G., Nohrstedt, D., Mård, J., Burchardt, S., Albin, C., Granberg, M., Nyberg, L., Nyman, M., Young, S., Walch, C., Parker, C., Deegan, F. M., Fuentes Andino, D., **Girons Lopez, M.**, Rhodes, E., Troll, V. R., Bondesson, S., Breinl, K. (2018) An Integrative research framework to unravel the interplay of natural hazards and vulnerabilities. *Earth's Future*. Accepted, In Press. doi:10.1002/2017EF000764
+
 Breinl, K., Di Baldassarre, G., **Girons Lopez, M.**, Hagenlocher, M., Vico, G., Rutgersson, A. (2017) Can weather generation capture precipitation patterns across climates, spatial scales and under data scarcity? *Scientific Reports 7:5449*. doi:[10.1038/s41598-017-05822-y](https://www.nature.com/articles/s41598-017-05822-y){:target="_blank"}
 
 **Girons Lopez, M.**, Di Baldassarre, G., Seibert, J. (2017), Impact of social preparedness on flood early warning systems, *Water Resources Research, 53*. doi:[10.1002/2016WR019387](http://onlinelibrary.wiley.com/doi/10.1002/2016WR019387/full){:target="_blank"}
@@ -20,7 +22,7 @@ Mbanguka, R. P., Lyon, S. W., Holmgren, K., **Girons Lopez, M.**, Jarsjö, J. (2
 
 # Manuscripts in review
 
-Di Baldassarre, G., Nohrstedt, D., Mård, J., Burchardt, S., Albin, C., Granberg, M., Nyberg, L., Nyman, M., Young, S., Walch, C., Parker, C., Deegan, F. M., Fuentes Andino, D., **Girons Lopez, M.**, Rhodes, E., Troll, V. R., Bondesson, S., Breinl, K. (2018) An Integrative research framework to unravel the interplay of natural hazards and vulnerabilities. *Earth's Future, In Press*.
+
 
 <div class="line-separator"></div>
 
