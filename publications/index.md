@@ -44,6 +44,8 @@ Rivera, S. J., **Girons Lopez, M.**, Seibert, J., Minsker, B. S. (2018). Flood d
 
 # Conference contributions
 
+**Girons Lopez, M.**, Vis, M., Seibert, J. (2018) Realism vs Simplicity: Depicting snow processes in a simple hydrological model. *EGU General Assembly, Vienna, Austria*. [[Abstract]](https://meetingorganizer.copernicus.org/EGU2018/EGU2018-1266.pdf){:target="_blank"}
+
 **Girons Lopez, M.**, Vis, M., Seibert, J. (2018) Realism versus simplicity in the snow routine of the HBV model. *SnowHydro 2018, Heidelberg, Germany*. [[Programme]](http://www.geog.uni-heidelberg.de/md/chemgeo/geog/hydro/snowhydro_final-program.pdf){:target="_blank"}
 
 Fourniadis, Y., Free, M., Manning, J., Beckett, O., Bolch, T., **Girons Lopez, M.** (2018) Impact of Climate Change on Glaciers and Glacial Runoff in Tajikistan. *New Dimensions for Natural Hazards in Asia: An AOGS-EGU Joint Conference, Tagaytay, Philippines*. [[Programme]](http://nathazards.org/doc/Presentation_Schedule.pdf){:target="_blank"}
