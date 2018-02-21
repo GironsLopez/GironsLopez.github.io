@@ -4,7 +4,7 @@ title: CV
 description: Current CV for Marc Girons Lopez
 ---
 
-# Marc Girons Lopez  <a target="_blank" href="/files/GironsLopez-academicCV.pdf" class="btn btn-primary pull-right" title="Download CV as PDF">Download CV</a>
+# Marc Girons Lopez  <a target="_blank" href="/files/gironsLopez-cv.pdf" class="btn btn-primary pull-right" title="Download CV as PDF">Download CV</a>
 **University of Zurich**  
 Department of Geography  
 Winterthurerstrasse 190  
