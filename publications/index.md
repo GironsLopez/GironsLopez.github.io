@@ -6,7 +6,7 @@ description: Publication list by Marc Girons Lopez
 
 # Peer-reviewed papers
 
-Di Baldassarre, G., Nohrstedt, D., Mård, J., Burchardt, S., Albin, C., Bondesson, S., Breinl, K., Deegan, F., Fuentes, D., **Girons Lopez, M.**, Granberg, M., Nyberg, L., Rydstedt Nyman, M., Rhodes, E., Troll, V., Young, S., Walch, C., Parker, C. F. (2018) An Integrative research framework to unravel the interplay of natural hazards and vulnerabilities. *Earth's Future*. Accepted, In Press. doi:[10.1002/2017EF000764](http://onlinelibrary.wiley.com/doi/10.1002/2017EF000764/abstract){:target="_blank"}
+Di Baldassarre, G., Nohrstedt, D., Mård, J., Burchardt, S., Albin, C., Bondesson, S., Breinl, K., Deegan, F., Fuentes, D., **Girons Lopez, M.**, Granberg, M., Nyberg, L., Rydstedt Nyman, M., Rhodes, E., Troll, V., Young, S., Walch, C., Parker, C. F. (2018) An Integrative research framework to unravel the interplay of natural hazards and vulnerabilities. *Earth's Future 6*. doi:[10.1002/2017EF000764](http://onlinelibrary.wiley.com/doi/10.1002/2017EF000764/full){:target="_blank"}
 
 Breinl, K., Di Baldassarre, G., **Girons Lopez, M.**, Hagenlocher, M., Vico, G., Rutgersson, A. (2017) Can weather generation capture precipitation patterns across climates, spatial scales and under data scarcity? *Scientific Reports 7:5449*. doi:[10.1038/s41598-017-05822-y](https://www.nature.com/articles/s41598-017-05822-y){:target="_blank"}
 
