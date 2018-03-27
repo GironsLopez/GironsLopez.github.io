@@ -26,7 +26,7 @@ Winterthurerstrasse 190
 
 ### Graduate Research Assistant
 **2011 -- 2016** Uppsala University • Uppsala, Sweden  
-*Design and implementation of hydrology research projects within hydrology, including defining research questions, modelling, data analysis, and reporting scientific results.*
+*Design and implementation of research projects within hydrology, including defining research questions, modelling, data analysis, and reporting scientific results.*
 
 ### Lab technician intern
 **2009** Laboratori Català de Control • Barcelona, Spain  
