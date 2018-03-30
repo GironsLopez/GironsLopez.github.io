@@ -68,7 +68,7 @@ photography ”[Living Flows](http://blogs.egu.eu/geolog/2016/04/22/announcing-t
 
 ### Research Fellowship
 **2015** CUAHSI  
-*I was sponsored by the Consortium of University for the Advancement of Hydrological Sciences (CUAHSI) to participate in the first National Flood Interoperability Experiment ([NFIE](https://www.cuahsi.org/NFIE)) at the US National Water Center in Tuscaloosa (Alabama).*
+*I was sponsored by the Consortium of University for the Advancement of Hydrological Sciences (CUAHSI) to participate in the first National Flood Interoperability Experiment ([NFIE](https://www.cuahsi.org/education/summerinstitute/){:target="_blank"}) at the US National Water Center in Tuscaloosa (Alabama).*
 
 ### Travel grant
 **2014** Liljewalchs Foundation  
