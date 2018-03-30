@@ -67,5 +67,5 @@ description: Teaching experience
 # University Pedagogical Education
 
 ### Academic Teacher Training Course
-**2015** Uppsala University • Uppsala, Sweden
+**2015** Uppsala University  
 *5 weeks, full-time.*
