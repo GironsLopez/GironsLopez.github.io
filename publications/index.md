@@ -28,9 +28,9 @@ Mbanguka, R. P., Lyon, S. W., Holmgren, K., **Girons Lopez, M.**, Jarsjö, J. (2
 
 # Manuscripts in preparation
 
-Rivera, S. J., **Girons Lopez, M.**, Seibert, J., Minsker, B. S. (2018). Probabilistic Flood Mapping Using Volunteered Geographical Information. *Manuscript in preparation*.
+Rivera, S. J., **Girons Lopez, M.**, Seibert, J., Minsker, B. S. (*in prep.*). Probabilistic Flood Mapping Using Volunteered Geographical Information.
 
-Rivera, S. J., **Girons Lopez, M.**, Seibert, J., Minsker, B. S. (2018). Flood depth determination using volunteered geographical information. *Manuscript in preparation*.
+Rivera, S. J., **Girons Lopez, M.**, Seibert, J., Minsker, B. S. (*in prep*). Flood depth determination using volunteered geographical information.
 
 <div class="line-separator"></div>
 
