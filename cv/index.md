@@ -5,16 +5,20 @@ description: Current CV for Marc Girons Lopez
 ---
 
 # Marc Girons Lopez  <a target="_blank" href="/files/gironsLopez-cv.pdf" class="btn btn-primary pull-right" title="Download CV as PDF">Download CV</a>
-**University of Zurich**  
-Department of Geography  
-Winterthurerstrasse 190  
-8057 Zurich, Switzerland
+**Swedish Meteorological and Hydrological Institute (SMHI)**  
+Forecasting and warning service  
+Folkborgsvägen 17 
+601 76 Norrköping, Sweden
 
-*I am a hydrologist with an interdisciplinary background working as postdoctoral researcher at the University of Zurich. I aim at contributing to build up knowledge and understanding about water related issues to make society more resilient and sustainable. I believe in continuous learning and communication and I am also interested in societal behaviour and data analysis. Everything is connected!*
+*I am a hydrologist with an interdisciplinary background and I recently defended my PhD. I look forward to opportunities to contribute with my knowledge to address water related issues and thus make society more resilient and sustainable. I also want to continue learning about hydrology and water resources but also about societal behaviour and data analysis. Everything is connected!*
 
 <div class="line-separator"></div>
 
 # Experience
+
+### Hydrologist
+**2018 -- present** Swedish Meteorological and Hydrological Institute (SMHI) • Norrköping, Sweden
+*Officer on duty for the Swedish and European flood warning services and researcher on seasonal streamflow forecasting.*
 
 ### Postdoctoral Researcher
 **2017 -- 2018** University of Zurich • Zurich, Switzerland  
