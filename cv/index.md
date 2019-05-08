@@ -17,7 +17,7 @@ Folkborgsvägen 17
 # Experience
 
 ### Hydrologist
-**2018 -- present** Swedish Meteorological and Hydrological Institute (SMHI) • Norrköping, Sweden
+**2018 -- present** Swedish Meteorological and Hydrological Institute (SMHI) • Norrköping, Sweden  
 *Officer on duty for the Swedish and European flood warning services and researcher on seasonal streamflow forecasting.*
 
 ### Postdoctoral Researcher
