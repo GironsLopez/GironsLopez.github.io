@@ -10,7 +10,7 @@ Forecasting and warning service
 Folkborgsvägen 17  
 601 76 Norrköping, Sweden
 
-*I am a hydrologist with an interdisciplinary background and I recently defended my PhD. I look forward to opportunities to contribute with my knowledge to address water related issues and thus make society more resilient and sustainable. I also want to continue learning about hydrology and water resources but also about societal behaviour and data analysis. Everything is connected!*
+*I am a hydrologist with an interdisciplinary background who aims at making society more resilient and sustainable through addressing water-related issues. I am continuously learning about hydrology and water resources management but also about societal behaviour and data analysis. Everything is connected!*
 
 <div class="line-separator"></div>
 
@@ -18,11 +18,11 @@ Folkborgsvägen 17
 
 ### Hydrologist
 **2018 -- present** Swedish Meteorological and Hydrological Institute (SMHI) • Norrköping, Sweden  
-*Officer on duty for the Swedish and European flood warning services and researcher on seasonal streamflow forecasting.*
+*Officer on duty for the Swedish and European flood warning services as well as researcher on seasonal streamflow forecasting.*
 
 ### Postdoctoral Researcher
 **2017 -- 2018** University of Zurich • Zurich, Switzerland  
-*My research focuses on improving the realism of the snow routine of the HBV rainfall-runoff model while maintaining a low model uncertainty.*
+*Improving the realism of the snow routine of the HBV rainfall-runoff model. Glacio-hydrological modelling in remote Alpine areas.*
 
 ### Graduate Teaching Assistant
 **2011 -- 2016** Uppsala University • Uppsala, Sweden  
