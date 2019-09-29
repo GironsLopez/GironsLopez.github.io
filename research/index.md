@@ -4,9 +4,13 @@ title: Research
 description: Current research and further interests
 ---
 
-## Postdoctoral research: Further development of the HBV model for alpine areas
+## Seasonal streamflow forecasting in Sweden
 
-![PostDocresearch]({{ site.baseurl }}/img/PostDocresearch.png)
+<div class="line-separator"></div>
+
+## Further development of the HBV model for alpine areas
+
+![Innerthal, Switzerland (2017)]({{ site.baseurl }}/img/PostDocresearch.png)
 
 Snow is a major contributing factor of stream runoff in many alpine and high-latitude areas of the world, as well as a significant temporary reservoir of freshwater. For this reason, detailed information and knowledge on the timing, magnitude, and variability of snow processes (i.e. snowfall, accumulation, and melt) is important for successful water resources management and risk reduction in such areas. In this context, and due to the persistent limitations in data availability, hydrological models are widely used for making assessments and predictions on freshwater management and risk reduction. Among the large array of available hydrological models, the [HBV model](https://www.smhi.se/en/research/research-departments/hydrology/hbv-1.90007){:target="_blank"} is a widely used model due to its simplicity, flexibility, and robustness. HBV’s design, representing hydrological processes in a simplified way, is particularly valuable in data-scarce areas. Additionally, the simplicity of the model is also beneficial for minimising uncertainties. Previous studies, however, show that an increased realism in the representation of some processes – e.g. snow processes – might improve the performance of hydrological models.
 
@@ -14,9 +18,9 @@ In this study we review and assess alternative conceptualisations to the snow ro
 
 <div class="line-separator"></div>
 
-## PhD research: Information Needs for Water Resource and Risk Management -- Hydro-Meteorological Data Value and Non-Traditional Informaiton
+## Information Needs for Water Resource and Risk Management -- Hydro-Meteorological Data Value and Non-Traditional Informaiton
 
-![PhDresearch]({{ site.baseurl }}/img/PhDresearch.png)
+![Dresden, Germany (2011)]({{ site.baseurl }}/img/PhDresearch.png)
 
 The research project was carried on within the Centre for Natural Disaster Sciences ([CNDS](http://www.cnds.se/){:target="_blank"}) in Sweden. The research project arised from the need to improve water management in order to mitigate the costs and losses derived from the interaction of society with the natural variability of the hydrological system.
 
