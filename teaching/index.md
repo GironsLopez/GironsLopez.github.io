@@ -4,6 +4,14 @@ title: Teaching
 description: Teaching experience
 ---
 
+# Pedagogical Education
+
+### Academic Teacher Training Course
+**2015** Uppsala University  
+*5 weeks, full-time.*
+
+<div class="line-separator"></div>
+
 # Teaching Experience
 
 ### Global Hydrology
@@ -61,11 +69,3 @@ description: Teaching experience
 ### Snow Physics and Hydrology
 **2016** 10 ECTS; second cycle (Uppsala University) [[syllabus]](http://www.uu.se/en/admissions/master/selma/kursplan/?kKod=1GE056){:target="_blank"}  
 *Laboratory activities (10 hours).*
-
-<div class="line-separator"></div>
-
-# University Pedagogical Education
-
-### Academic Teacher Training Course
-**2015** Uppsala University  
-*5 weeks, full-time.*
