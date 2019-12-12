@@ -129,10 +129,10 @@ photography ”[Living Flows](http://blogs.egu.eu/geolog/2016/04/22/announcing-t
 # Skills
 
 ### Programming
-Python • Matlab • LaTeX • Markdown
+Python • R • Matlab • LaTeX • Markdown • Bash
 
 ### Software
-ArcGIS • QGIS • HBV • Git • Inkscape • Linux
+ArcGIS • QGIS • HBV • HYPE • Git • Inkscape • Linux
 
 ### Instrumentation
 Campbell loggers • Hydro-meteorological sensors
