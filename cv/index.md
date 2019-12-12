@@ -91,18 +91,26 @@ photography ”[Living Flows](http://blogs.egu.eu/geolog/2016/04/22/announcing-t
 # Other Activities
 
 ### Translator
-**2016 -- 2017** Planet Press  
+**2016 -- present** Planet Press  
 *I translate short scientific articles for kids from the European Geosciences Union (EGU) Planet Press initiative into Spanish.*
 
-* *High altitudes help slow down Antarctica’s warming*, Spanish translation [[Link]](http://www.egu.eu/education/planet-press/80/high-altitudes-help-slow-down-antarcticas-warming/){:target="_blank"}
+* *Scientists calculate deadline for climate action*, Spanish translation [[Link]](https://www.egu.eu/education/planet-press/90/scientists-calculate-deadline-for-climate-action/){:target="_blank"}
 
-* *Rising seas and erosion spell trouble for coral reefs*, Spanish translation [[Link]](http://www.egu.eu/education/planet-press/79/rising-seas-and-erosion-spell-trouble-for-coral-reefs/){:target="_blank"}
+* *Landslides triggered by humans on the rise*, Spanish translation [[Link]](https://www.egu.eu/education/planet-press/89/landslides-triggered-by-humans-on-the-rise/){:target="_blank"}
 
-* *Picturing the Northern Lights*, Spanish translation [[Link]](http://www.egu.eu/education/planet-press/11/picturing-the-northern-lights/){:target="_blank"}
+* *Palm oil is making Indonesia warmer*, Spanish translation [[Link]](https://www.egu.eu/education/planet-press/83/palm-oil-is-making-indonesia-warmer/){:target="_blank"}
 
-* *Tiny Plankton could have a big impact on Earth's climate*, Spanish translation [[Link]](http://www.egu.eu/education/planet-press/13/tiny-plankton-could-have-a-big-impact-on-earths-climate/){:target="_blank"}
+*Remove carbon dioxide from the air or risk young people's future*, Spanish translation [[Link]](https://www.egu.eu/education/planet-press/81/remove-carbon-dioxide-from-the-air-or-risk-young-peoples-future/){:target="_blank"}
 
-* *Half a degree makes a world of difference*, Spanish translation [[Link]](http://www.egu.eu/education/planet-press/38/half-a-degree-makes-a-world-of-difference/){:target="_blank"}
+* *High altitudes help slow down Antarctica’s warming*, Spanish translation [[Link]](https://www.egu.eu/education/planet-press/80/high-altitudes-help-slow-down-antarcticas-warming/){:target="_blank"}
+
+* *Rising seas and erosion spell trouble for coral reefs*, Spanish translation [[Link]](https://www.egu.eu/education/planet-press/79/rising-seas-and-erosion-spell-trouble-for-coral-reefs/){:target="_blank"}
+
+* *Picturing the Northern Lights*, Spanish translation [[Link]](https://www.egu.eu/education/planet-press/11/picturing-the-northern-lights/){:target="_blank"}
+
+* *Tiny Plankton could have a big impact on Earth's climate*, Spanish translation [[Link]](https://www.egu.eu/education/planet-press/13/tiny-plankton-could-have-a-big-impact-on-earths-climate/){:target="_blank"}
+
+* *Half a degree makes a world of difference*, Spanish translation [[Link]](https://www.egu.eu/education/planet-press/38/half-a-degree-makes-a-world-of-difference/){:target="_blank"}
 
 ### Volunteer
 **2013** IAHS  
