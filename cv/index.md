@@ -100,7 +100,7 @@ photography ”[Living Flows](http://blogs.egu.eu/geolog/2016/04/22/announcing-t
 
 * *Palm oil is making Indonesia warmer*, Spanish translation [[Link]](https://www.egu.eu/education/planet-press/83/palm-oil-is-making-indonesia-warmer/){:target="_blank"}
 
-*Remove carbon dioxide from the air or risk young people's future*, Spanish translation [[Link]](https://www.egu.eu/education/planet-press/81/remove-carbon-dioxide-from-the-air-or-risk-young-peoples-future/){:target="_blank"}
+* *Remove carbon dioxide from the air or risk young people's future*, Spanish translation [[Link]](https://www.egu.eu/education/planet-press/81/remove-carbon-dioxide-from-the-air-or-risk-young-peoples-future/){:target="_blank"}
 
 * *High altitudes help slow down Antarctica’s warming*, Spanish translation [[Link]](https://www.egu.eu/education/planet-press/80/high-altitudes-help-slow-down-antarcticas-warming/){:target="_blank"}
 
