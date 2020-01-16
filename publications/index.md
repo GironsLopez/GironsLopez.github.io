@@ -28,9 +28,9 @@ Mbanguka, R. P., Lyon, S. W., Holmgren, K., **Girons Lopez, M.**, Jarsjö, J. (2
 
 # Manuscripts in preparation
 
-Rivera, S. J., **Girons Lopez, M.**, Seibert, J., Minsker, B. S. (*in prep.*). Probabilistic Flood Mapping Using Volunteered Geographical Information.
+**Girons Lopez, M.**, Vis, M. J. P., Jenicek, M., Griessinger, N., Seibert, J. Complexity and performance of temperature-based snow routines for runoff modelling in mountainous areas  in Central Europe.
 
-Rivera, S. J., **Girons Lopez, M.**, Seibert, J., Minsker, B. S. (*in prep*). Flood depth determination using volunteered geographical information.
+**Girons Lopez, M.**, Crochemore, L., Pechlivanidis, I. Evaluation of the potential of an operational hydrological model for providing seasonal forecasts in Sweden.
 
 <div class="line-separator"></div>
 
@@ -44,28 +44,35 @@ Rivera, S. J., **Girons Lopez, M.**, Seibert, J., Minsker, B. S. (*in prep*). Fl
 
 # Conference contributions
 
-**Girons Lopez, M.**, Vis, M., Seibert, J. (2018) Realism vs Simplicity: Depicting snow processes in a simple hydrological model. *EGU General Assembly, Vienna, Austria*. [[Abstract]](https://meetingorganizer.copernicus.org/EGU2018/EGU2018-1266.pdf){:target="_blank"}
+**Girons Lopez, M.**, Vis, M., Seibert, J.* (2019) Snow processes in bucket-type hydrological models – does increased realism lead to better simulations? *Satellite inspired hydrology in an uncertain future: an H SAF and HEPEX workshop
+ECMWF, Reading, United Kingdom*. [[Presentation]](https://events.ecmwf.int/event/130/contributions/838/attachments/360/648/HSAF-HEPEX-WS-Seibert.pdf){:target="_blank"}
 
-**Girons Lopez, M.**, Vis, M., Seibert, J. (2018) Realism versus simplicity in the snow routine of the HBV model. *SnowHydro 2018, Heidelberg, Germany*. [[Programme]](http://www.geog.uni-heidelberg.de/md/chemgeo/geog/hydro/snowhydro_final-program.pdf){:target="_blank"}
+**Girons Lopez, M.**, Crochemore, L., Pechlivanidis, I.* (2019) Evaluation of the potential of an operational hydrological model for providing seasonal forecasts in Sweden. *EGU General Assembly, Vienna, Austria*. [[Abstract]](https://meetingorganizer.copernicus.org/EGU2019/EGU2019-13052.pdf){:target="_blank"}
 
-Fourniadis, Y., Free, M., Manning, J., Beckett, O., Bolch, T., **Girons Lopez, M.** (2018) Impact of Climate Change on Glaciers and Glacial Runoff in Tajikistan. *New Dimensions for Natural Hazards in Asia: An AOGS-EGU Joint Conference, Tagaytay, Philippines*. [[Programme]](http://nathazards.org/doc/Presentation_Schedule.pdf){:target="_blank"}
+**Girons Lopez, M.***, Vis, M., Seibert, J. (2018) Realism vs Simplicity: Depicting snow processes in a simple hydrological model. *EGU General Assembly, Vienna, Austria*. [[Abstract]](https://meetingorganizer.copernicus.org/EGU2018/EGU2018-1266.pdf){:target="_blank"}
 
-**Girons Lopez, M.**, Vis, M., Seibert, J. (2017) Re-thinking the snow routine of HBV. *Cool models for a warm climate - operational snow models for the present and future climate, Finse, Norway*.
+**Girons Lopez, M.***, Vis, M., Seibert, J. (2018) Realism versus simplicity in the snow routine of the HBV model. *SnowHydro 2018, Heidelberg, Germany*. [[Programme]](http://www.geog.uni-heidelberg.de/md/chemgeo/geog/hydro/snowhydro_final-program.pdf){:target="_blank"}
 
-**Girons Lopez, M.**, Vis, M., Seibert, J. (2017) Realism versus simplicity in the snow routine of the HBV model. *EGU General Assembly, Vienna, Austria*. [[Abstract]](http://meetingorganizer.copernicus.org/EGU2017/EGU2017-13395.pdf){:target="_blank"}
+Fourniadis, Y.*, Free, M., Manning, J., Beckett, O., Bolch, T., **Girons Lopez, M.** (2018) Impact of Climate Change on Glaciers and Glacial Runoff in Tajikistan. *New Dimensions for Natural Hazards in Asia: An AOGS-EGU Joint Conference, Tagaytay, Philippines*. [[Programme]](http://nathazards.org/doc/Presentation_Schedule.pdf){:target="_blank"}
 
-**Girons Lopez, M.**, Di Baldassarre, G., Seibert, J. (2017) Strengthening flood warning systems: the benefits of encouraging social preparedness. *EGU General Assembly, Vienna, Austria*. [[Abstract]](http://meetingorganizer.copernicus.org/EGU2017/EGU2017-14212-1.pdf){:target="_blank"}
+**Girons Lopez, M.***, Vis, M., Seibert, J. (2017) Re-thinking the snow routine of HBV. *Cool models for a warm climate - operational snow models for the present and future climate, Finse, Norway*.
 
-Breinl, K., Di Baldassarre, G., **Girons Lopez, M.** (2017) Reduced-complexity multi-site rainfall generation: one million years over night using the model TripleM. *EGU General Assembly, Vienna, Austria*. [[Abstract]](http://meetingorganizer.copernicus.org/EGU2017/EGU2017-3065-1.pdf){:target="_blank"}
+**Girons Lopez, M.***, Vis, M., Seibert, J. (2017) Realism versus simplicity in the snow routine of the HBV model. *EGU General Assembly, Vienna, Austria*. [[Abstract]](http://meetingorganizer.copernicus.org/EGU2017/EGU2017-13395.pdf){:target="_blank"}
 
-Rivera, S. J., **Girons Lopez, M.**, Seibert, J., Minsker, B. S. (2016) Probabilistic Flood Mapping using Volunteered Geographical Information. *AGU Fall Meeting, San Francisco, USA*. [[Abstract]](https://agu.confex.com/agu/fm16/meetingapp.cgi/Paper/134525){:target="_blank"}
+**Girons Lopez, M.***, Di Baldassarre, G., Seibert, J. (2017) Strengthening flood warning systems: the benefits of encouraging social preparedness. *EGU General Assembly, Vienna, Austria*. [[Abstract]](http://meetingorganizer.copernicus.org/EGU2017/EGU2017-14212-1.pdf){:target="_blank"}
 
-**Girons Lopez, M.**, Di Baldassarre, G., Seibert, J. (2016) Impact of Social Memory on the Efficiency of Flood Early Warning Systems (FEWS). *13th Congress INTERPRAEVENT 2016, Lucerne, Switzerland*. [[Poster]](http://interpraevent2016.ch/assets/editor/files/2016_05_30_18_31_16IP_2016_POSTER108.pdf){:target="_blank"} & [[Extended abstract]](http://www.interpraevent.at/palm-cms/upload_files/Publikationen/Tagungsbeitraege/2016_EA_220.pdf){:target="_blank"}
+Breinl, K.*, Di Baldassarre, G., **Girons Lopez, M.** (2017) Reduced-complexity multi-site rainfall generation: one million years over night using the model TripleM. *EGU General Assembly, Vienna, Austria*. [[Abstract]](http://meetingorganizer.copernicus.org/EGU2017/EGU2017-3065-1.pdf){:target="_blank"}
 
-**Girons Lopez, M.**, Di Baldassarre, G., Grabs, T., Halldin, S., Seibert, J. (2016) Exploring the Role of Social Memory of Floods for Designing Flood Early Warning Operations. *EGU General Assembly, Vienna, Austria*. [[Abstract]](http://meetingorganizer.copernicus.org/EGU2016/EGU2016-15179.pdf){:target="_blank"}
+Rivera, S. J.*, **Girons Lopez, M.**, Seibert, J., Minsker, B. S. (2016) Probabilistic Flood Mapping using Volunteered Geographical Information. *AGU Fall Meeting, San Francisco, USA*. [[Abstract]](https://agu.confex.com/agu/fm16/meetingapp.cgi/Paper/134525){:target="_blank"}
 
-Rivera, S. J., **Girons Lopez, M.**, Minsker, B. S., Seibert, J. (2015) Probabilistic Flood Mapping using Volunteered Geographical Information. *3rd CUAHSI Conference on Hydroinformatics, Tuscaloosa, Alabama*.
+**Girons Lopez, M.***, Di Baldassarre, G., Seibert, J. (2016) Impact of Social Memory on the Efficiency of Flood Early Warning Systems (FEWS). *13th Congress INTERPRAEVENT 2016, Lucerne, Switzerland*. [[Poster]](http://interpraevent2016.ch/assets/editor/files/2016_05_30_18_31_16IP_2016_POSTER108.pdf){:target="_blank"} & [[Extended abstract]](http://www.interpraevent.at/palm-cms/upload_files/Publikationen/Tagungsbeitraege/2016_EA_220.pdf){:target="_blank"}
 
-**Girons Lopez, M.**, Seibert, J., Halldin, S., Wennerström, H. (2013) Value of distributed precipitation for flood early warning: A case study for a pre-alpine catchment in Switzerland. *Knowledge for the Future - Joint IAHS-IAPSO-IASPEI Assembly, Gothenburg, Sweden*. [[Programme]](http://cx.devinform.se/congrex_80/IAHS-IAPSO-IASPEI-Joint-assembly-2013-FINAL_PROGRAMME.pdf){:target="_blank"}
+**Girons Lopez, M.***, Di Baldassarre, G., Grabs, T., Halldin, S., Seibert, J. (2016) Exploring the Role of Social Memory of Floods for Designing Flood Early Warning Operations. *EGU General Assembly, Vienna, Austria*. [[Abstract]](http://meetingorganizer.copernicus.org/EGU2016/EGU2016-15179.pdf){:target="_blank"}
 
-Mbanguka, R. P., **Girons Lopez, M.**, Jarsjö, J. (2013) A Water Balance Model for Assessing Hydro Climatic Variability in Tropical Lake Systems: Application to Lake Babati and Lake Emakat, Northern Tanzania. *EGU General Assembly, Vienna, Austria*. [[Abstract]](http://meetingorganizer.copernicus.org/EGU2013/EGU2013-3154.pdf){:target="_blank"}
+Rivera, S. J.*, **Girons Lopez, M.**, Minsker, B. S., Seibert, J. (2015) Probabilistic Flood Mapping using Volunteered Geographical Information. *3rd CUAHSI Conference on Hydroinformatics, Tuscaloosa, Alabama*.
+
+**Girons Lopez, M.***, Seibert, J., Halldin, S., Wennerström, H. (2013) Value of distributed precipitation for flood early warning: A case study for a pre-alpine catchment in Switzerland. *Knowledge for the Future - Joint IAHS-IAPSO-IASPEI Assembly, Gothenburg, Sweden*. [[Programme]](http://cx.devinform.se/congrex_80/IAHS-IAPSO-IASPEI-Joint-assembly-2013-FINAL_PROGRAMME.pdf){:target="_blank"}
+
+Mbanguka, R. P.*, **Girons Lopez, M.**, Jarsjö, J. (2013) A Water Balance Model for Assessing Hydro Climatic Variability in Tropical Lake Systems: Application to Lake Babati and Lake Emakat, Northern Tanzania. *EGU General Assembly, Vienna, Austria*. [[Abstract]](http://meetingorganizer.copernicus.org/EGU2013/EGU2013-3154.pdf){:target="_blank"}
+
+**Presenting author*
