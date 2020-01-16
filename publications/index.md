@@ -44,8 +44,7 @@ Mbanguka, R. P., Lyon, S. W., Holmgren, K., **Girons Lopez, M.**, Jarsjö, J. (2
 
 # Conference contributions
 
-**Girons Lopez, M.**, Vis, M., Seibert, J.* (2019) Snow processes in bucket-type hydrological models – does increased realism lead to better simulations? *Satellite inspired hydrology in an uncertain future: an H SAF and HEPEX workshop
-ECMWF, Reading, United Kingdom*. [[Presentation]](https://events.ecmwf.int/event/130/contributions/838/attachments/360/648/HSAF-HEPEX-WS-Seibert.pdf){:target="_blank"}
+**Girons Lopez, M.**, Vis, M., Seibert, J.* (2019) Snow processes in bucket-type hydrological models – does increased realism lead to better simulations? *Satellite inspired hydrology in an uncertain future: an H SAF and HEPEX workshop, ECMWF, Reading, United Kingdom*. [[Presentation]](https://events.ecmwf.int/event/130/contributions/838/attachments/360/648/HSAF-HEPEX-WS-Seibert.pdf){:target="_blank"}
 
 **Girons Lopez, M.**, Crochemore, L., Pechlivanidis, I.* (2019) Evaluation of the potential of an operational hydrological model for providing seasonal forecasts in Sweden. *EGU General Assembly, Vienna, Austria*. [[Abstract]](https://meetingorganizer.copernicus.org/EGU2019/EGU2019-13052.pdf){:target="_blank"}
 
