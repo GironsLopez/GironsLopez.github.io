@@ -44,6 +44,8 @@ Mbanguka, R. P., Lyon, S. W., Holmgren, K., **Girons Lopez, M.**, Jarsjö, J. (2
 
 # Conference contributions
 
+**Girons Lopez, M.^**, Crochemore, L., Pechlivanidis, I. (2019) Evaluation of seasonal forecasting skill over Sweden. *Hydrologiskt utvecklingsarbete i ett oförutsägbart klimat, Stockholm, Sweden*. [[Presentation]](https://www.energiforsk.se/media/27319/forecasting-hydropower-availability-marc-girons-lopez.pdf){:target="_blank"}
+
 **Girons Lopez, M.**, Vis, M., Seibert, J.^ (2019) Snow processes in bucket-type hydrological models – does increased realism lead to better simulations? *Satellite inspired hydrology in an uncertain future: an H SAF and HEPEX workshop, ECMWF, Reading, United Kingdom*. [[Presentation]](https://events.ecmwf.int/event/130/contributions/838/attachments/360/648/HSAF-HEPEX-WS-Seibert.pdf){:target="_blank"}
 
 **Girons Lopez, M.**, Crochemore, L., Pechlivanidis, I.^ (2019) Evaluation of the potential of an operational hydrological model for providing seasonal forecasts in Sweden. *EGU General Assembly, Vienna, Austria*. [[Abstract]](https://meetingorganizer.copernicus.org/EGU2019/EGU2019-13052.pdf){:target="_blank"}
@@ -54,7 +56,7 @@ Mbanguka, R. P., Lyon, S. W., Holmgren, K., **Girons Lopez, M.**, Jarsjö, J. (2
 
 Fourniadis, Y.^, Free, M., Manning, J., Beckett, O., Bolch, T., **Girons Lopez, M.** (2018) Impact of Climate Change on Glaciers and Glacial Runoff in Tajikistan. *New Dimensions for Natural Hazards in Asia: An AOGS-EGU Joint Conference, Tagaytay, Philippines*. [[Programme]](http://nathazards.org/doc/Presentation_Schedule.pdf){:target="_blank"}
 
-**Girons Lopez, M.^**, Vis, M., Seibert, J. (2017) Re-thinking the snow routine of HBV. *Cool models for a warm climate - operational snow models for the present and future climate, Finse, Norway*.
+**Girons Lopez, M.^**, Vis, M., Seibert, J. (2017) Re-thinking the snow routine of HBV. *Cool models for a warm climate - operational snow models for the present and future climate, Finse, Norway*. [[Flyer]](https://www.mn.uio.no/geo/english/research/projects/escymo/snowhow_escymo_workshop_flyer.pdf)
 
 **Girons Lopez, M.^**, Vis, M., Seibert, J. (2017) Realism versus simplicity in the snow routine of the HBV model. *EGU General Assembly, Vienna, Austria*. [[Abstract]](http://meetingorganizer.copernicus.org/EGU2017/EGU2017-13395.pdf){:target="_blank"}
 
