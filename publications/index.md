@@ -22,7 +22,7 @@ Mbanguka, R. P., Lyon, S. W., Holmgren, K., **Girons Lopez, M.**, Jarsjö, J. (2
 
 # Manuscripts in review
 
-**Girons Lopez, M.**, Vis, M. J. P., Jenicek, M., Griessinger, N., Seibert, J. Complexity and performance of temperature-based snow routines for runoff modelling in mountainous areas  in Central Europe. [HESSD](https://www.hydrol-earth-syst-sci-discuss.net/hess-2020-57/)
+**Girons Lopez, M.**, Vis, M. J. P., Jenicek, M., Griessinger, N., Seibert, J. (2020) Complexity and performance of temperature-based snow routines for runoff modelling in mountainous areas  in Central Europe. *Hydrol. Earth Syst. Sci. Discuss.* doi:[10.5194/hess-2020-57](https://www.hydrol-earth-syst-sci-discuss.net/hess-2020-57/){:target="_blank"}, *in review*.
 
 <div class="line-separator"></div>
 
