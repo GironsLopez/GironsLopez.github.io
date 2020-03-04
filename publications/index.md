@@ -30,6 +30,8 @@ Mbanguka, R. P., Lyon, S. W., Holmgren, K., **Girons Lopez, M.**, Jarsjö, J. (2
 
 **Girons Lopez, M.**, Crochemore, L., Pechlivanidis, I. Evaluation of the potential of an operational hydrological model for providing seasonal forecasts in Sweden.
 
+Wörman, A., Brandimarte, L., Busse, S., Crochemore, L., **Girons Lopez, M.**, Hao, S., Pechlivanidis, I., Riml, J. Spatiotemporal coordination of hydropower over Europe can induce significant virtual energy storage gain
+
 <div class="line-separator"></div>
 
 # Theses
