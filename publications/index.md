@@ -58,7 +58,7 @@ Wörman, A.^, Crochemore, L., Pechlivanidis, P., **Gions Lopez, M.**, Brandimart
 
 Fourniadis, Y.^, Free, M., Manning, J., Beckett, O., Bolch, T., **Girons Lopez, M.** (2018) Impact of Climate Change on Glaciers and Glacial Runoff in Tajikistan. *New Dimensions for Natural Hazards in Asia: An AOGS-EGU Joint Conference, Tagaytay, Philippines*. [[Programme]](http://nathazards.org/doc/Presentation_Schedule.pdf){:target="_blank"}
 
-**Girons Lopez, M.^**, Vis, M., Seibert, J. (2017) Re-thinking the snow routine of HBV. *Cool models for a warm climate - operational snow models for the present and future climate, Finse, Norway*. [[Flyer]](https://www.mn.uio.no/geo/english/research/projects/escymo/snowhow_escymo_workshop_flyer.pdf)
+**Girons Lopez, M.^**, Vis, M., Seibert, J. (2017) Re-thinking the snow routine of HBV. *Cool models for a warm climate - operational snow models for the present and future climate, Finse, Norway*. [[Flyer]](https://www.mn.uio.no/geo/english/research/projects/escymo/snowhow_escymo_workshop_flyer.pdf){:target="_blank"}
 
 **Girons Lopez, M.^**, Vis, M., Seibert, J. (2017) Realism versus simplicity in the snow routine of the HBV model. *EGU General Assembly, Vienna, Austria*. [[Abstract]](http://meetingorganizer.copernicus.org/EGU2017/EGU2017-13395.pdf){:target="_blank"}
 
