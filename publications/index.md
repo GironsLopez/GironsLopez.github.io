@@ -44,7 +44,7 @@ Wörman, A., Brandimarte, L., Busse, S., Crochemore, L., **Girons Lopez, M.**, H
 
 # Conference contributions
 
-Wörman, A^, Crochemore, L., Pechlivanidis, P., **Gions Lopez, M.**, Brandimarte, L., Riml, J., Hao, S., Bertacchi Uvo, C., Busse, S. (2020) Virtual energy storage-gain due to spatiotemporal coordination of hydropower over Europe. *EGU General Assembly, Vienna, Austria*. [[Abstract]](https://meetingorganizer.copernicus.org/EGU2020/EGU2020-7939.html){:target="_blank"}
+Wörman, A.^, Crochemore, L., Pechlivanidis, P., **Gions Lopez, M.**, Brandimarte, L., Riml, J., Hao, S., Bertacchi Uvo, C., Busse, S. (2020) Virtual energy storage-gain due to spatiotemporal coordination of hydropower over Europe. *EGU General Assembly, Vienna, Austria*. [[Abstract]](https://meetingorganizer.copernicus.org/EGU2020/EGU2020-7939.html){:target="_blank"}
 
 **Girons Lopez, M.^**, Crochemore, L., Pechlivanidis, I. (2019) Evaluation of seasonal forecasting skill over Sweden. *Hydrologiskt utvecklingsarbete i ett oförutsägbart klimat, Stockholm, Sweden*. [[Presentation]](https://www.energiforsk.se/media/27319/forecasting-hydropower-availability-marc-girons-lopez.pdf){:target="_blank"}
 
