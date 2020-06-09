@@ -6,6 +6,8 @@ description: Publication list by Marc Girons Lopez
 
 # Peer-reviewed papers
 
+Wörman, A., Uvo, C. B., Brandimarte, L., Busse, S., Crochemore, L., **Girons Lopez, M.**, Hao, S., Pechlivanidis, I., Riml, J. (2020) Virtual energy storage gain resulting from the spatio-temporal coordination of hydropower over Europe, *Applied Energy 272*. doi:[10.1016/j.apenergy.2020.115249](https://www.sciencedirect.com/science/article/abs/pii/S0306261920307613){:target="_blank"}
+
 Di Baldassarre, G., Nohrstedt, D., Mård, J., Burchardt, S., Albin, C., Bondesson, S., Breinl, K., Deegan, F., Fuentes, D., **Girons Lopez, M.**, Granberg, M., Nyberg, L., Rydstedt Nyman, M., Rhodes, E., Troll, V., Young, S., Walch, C., Parker, C. F. (2018) An Integrative research framework to unravel the interplay of natural hazards and vulnerabilities. *Earth's Future 6*. doi:[10.1002/2017EF000764](http://onlinelibrary.wiley.com/doi/10.1002/2017EF000764/full){:target="_blank"}
 
 Breinl, K., Di Baldassarre, G., **Girons Lopez, M.**, Hagenlocher, M., Vico, G., Rutgersson, A. (2017) Can weather generation capture precipitation patterns across climates, spatial scales and under data scarcity? *Scientific Reports 7:5449*. doi:[10.1038/s41598-017-05822-y](https://www.nature.com/articles/s41598-017-05822-y){:target="_blank"}
@@ -17,12 +19,6 @@ Mbanguka, R. P., Lyon, S. W., Holmgren, K., **Girons Lopez, M.**, Jarsjö, J. (2
 **Girons Lopez, M.**, Seibert, J. (2016). Influence of Hydro-Meteorological Data Spatial Aggregation on Streamflow Modelling. *Journal of Hydrology, 541*, pp. 1212-1220. doi:[10.1016/j.jhydrol.2016.08.026](http://www.sciencedirect.com/science/article/pii/S0022169416305170){:target="_blank"}
 
 **Girons Lopez, M.**, Wennerström, H., Nordén, L.-Å., Seibert, J. (2015) Location and density of Rain Gauges for the Estimation of Spatial Varying Precipitation. *Geografiska Annaler. Series A, Physical Geography, 97*, pp. 167-179. doi:[10.1111/geoa.12094](http://onlinelibrary.wiley.com/doi/10.1111/geoa.12094/abstract){:target="_blank"}
-
-# Accepted papers
-
-Wörman, A., Brandimarte, L., Busse, S., Crochemore, L., **Girons Lopez, M.**, Hao, S., Pechlivanidis, I., Riml, J. (2020) Spatiotemporal coordination of hydropower over Europe can induce significant virtual energy storage gain, *Applied Energy*.
-
-<div class="line-separator"></div>
 
 # Manuscripts in review
 
