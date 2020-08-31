@@ -20,6 +20,8 @@ Mbanguka, R. P., Lyon, S. W., Holmgren, K., **Girons Lopez, M.**, Jarsjö, J. (2
 
 **Girons Lopez, M.**, Wennerström, H., Nordén, L.-Å., Seibert, J. (2015) Location and density of Rain Gauges for the Estimation of Spatial Varying Precipitation. *Geografiska Annaler. Series A, Physical Geography, 97*, pp. 167-179. doi:[10.1111/geoa.12094](http://onlinelibrary.wiley.com/doi/10.1111/geoa.12094/abstract){:target="_blank"}
 
+<div class="line-separator"></div>
+
 # Accepted manuscripts
 
 **Girons Lopez, M.**, Vis, M. J. P., Jenicek, M., Griessinger, N., Seibert, J. (2020) Complexity and performance of temperature-based snow routines for runoff modelling in mountainous areas  in Central Europe. *Hydrol. Earth Syst. Sci. Discuss*. doi:[10.5194/hess-2020-57](https://www.hydrol-earth-syst-sci-discuss.net/hess-2020-57/){:target="_blank"}, *accepted*.
