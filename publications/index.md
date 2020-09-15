@@ -6,6 +6,8 @@ description: Publication list by Marc Girons Lopez
 
 # Peer-reviewed papers
 
+**Girons Lopez, M.**, Vis, M. J. P., Jenicek, M., Griessinger, N., Seibert, J. (2020) Assessing the degree of detail of temperature-based snow routines for runoff modelling in mountainous areas in central Europe. *Hydrol. Earth Syst. Sci., 24*. doi:[10.5194/hess-24-4441-2020](https://hess.copernicus.org/articles/24/4441/2020/){:target="_blank"}
+
 Wörman, A., Uvo, C. B., Brandimarte, L., Busse, S., Crochemore, L., **Girons Lopez, M.**, Hao, S., Pechlivanidis, I., Riml, J. (2020) Virtual energy storage gain resulting from the spatio-temporal coordination of hydropower over Europe, *Applied Energy 272*. doi:[10.1016/j.apenergy.2020.115249](https://www.sciencedirect.com/science/article/abs/pii/S0306261920307613){:target="_blank"}
 
 Di Baldassarre, G., Nohrstedt, D., Mård, J., Burchardt, S., Albin, C., Bondesson, S., Breinl, K., Deegan, F., Fuentes, D., **Girons Lopez, M.**, Granberg, M., Nyberg, L., Rydstedt Nyman, M., Rhodes, E., Troll, V., Young, S., Walch, C., Parker, C. F. (2018) An Integrative research framework to unravel the interplay of natural hazards and vulnerabilities. *Earth's Future 6*. doi:[10.1002/2017EF000764](http://onlinelibrary.wiley.com/doi/10.1002/2017EF000764/full){:target="_blank"}
@@ -23,8 +25,6 @@ Mbanguka, R. P., Lyon, S. W., Holmgren, K., **Girons Lopez, M.**, Jarsjö, J. (2
 <div class="line-separator"></div>
 
 # Accepted manuscripts
-
-**Girons Lopez, M.**, Vis, M. J. P., Jenicek, M., Griessinger, N., Seibert, J. (2020) Complexity and performance of temperature-based snow routines for runoff modelling in mountainous areas  in Central Europe. *Hydrol. Earth Syst. Sci. Discuss*. doi:[10.5194/hess-2020-57](https://www.hydrol-earth-syst-sci-discuss.net/hess-2020-57/){:target="_blank"}, *accepted*.
 
 <div class="line-separator"></div>
 
