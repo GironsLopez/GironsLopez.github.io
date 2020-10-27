@@ -30,11 +30,13 @@ Mbanguka, R. P., Lyon, S. W., Holmgren, K., **Girons Lopez, M.**, Jarsjö, J. (2
 
 # Manuscripts in review
 
+**Girons Lopez, M.**, Crochemore, L., Pechlivanidis, I. G. (2020) Benchmarking an operational hydrological model for providing seasonal forecasts in Sweden. *Hydrology and Earth System Sciences Discussions* [In review]
+
 <div class="line-separator"></div>
 
 # Manuscripts in preparation
 
-**Girons Lopez, M.**, Crochemore, L., Pechlivanidis, I. Evaluation of the potential of an operational hydrological model for providing seasonal forecasts in Sweden.
+
 
 <div class="line-separator"></div>
 
