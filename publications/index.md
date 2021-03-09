@@ -6,6 +6,8 @@ description: Publication list by Marc Girons Lopez
 
 # Peer-reviewed papers
 
+**Girons Lopez, M.**, Crochemore, L., Pechlivanidis, I. G. (2021) Benchmarking an operational hydrological model for providing seasonal forecasts in Sweden. *Hydrol. Earth Syst. Sci., 25* doi: [10.5194/hess-25-1189-2021](https://doi.org/10.5194/hess-25-1189-2021){:target="_blank"}
+
 **Girons Lopez, M.**, Vis, M. J. P., Jenicek, M., Griessinger, N., Seibert, J. (2020) Assessing the degree of detail of temperature-based snow routines for runoff modelling in mountainous areas in central Europe. *Hydrol. Earth Syst. Sci., 24*. doi:[10.5194/hess-24-4441-2020](https://hess.copernicus.org/articles/24/4441/2020/){:target="_blank"}
 
 Wörman, A., Uvo, C. B., Brandimarte, L., Busse, S., Crochemore, L., **Girons Lopez, M.**, Hao, S., Pechlivanidis, I., Riml, J. (2020) Virtual energy storage gain resulting from the spatio-temporal coordination of hydropower over Europe, *Applied Energy 272*. doi:[10.1016/j.apenergy.2020.115249](https://www.sciencedirect.com/science/article/abs/pii/S0306261920307613){:target="_blank"}
@@ -26,8 +28,6 @@ Mbanguka, R. P., Lyon, S. W., Holmgren, K., **Girons Lopez, M.**, Jarsjö, J. (2
 
 # Accepted manuscripts
 
-**Girons Lopez, M.**, Crochemore, L., Pechlivanidis, I. G. (2020) Benchmarking an operational hydrological model for providing seasonal forecasts in Sweden. *Hydrol. Earth Syst. Sci. Discuss.* [preprint] doi: [10.5194/hess-2020-542](https://doi.org/10.5194/hess-2020-542){:target="_blank"}
-
 <div class="line-separator"></div>
 
 # Manuscripts in review
@@ -35,8 +35,6 @@ Mbanguka, R. P., Lyon, S. W., Holmgren, K., **Girons Lopez, M.**, Jarsjö, J. (2
 <div class="line-separator"></div>
 
 # Manuscripts in preparation
-
-
 
 <div class="line-separator"></div>
 
