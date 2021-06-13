@@ -48,7 +48,7 @@ Mbanguka, R. P., Lyon, S. W., Holmgren, K., **Girons Lopez, M.**, Jarsjö, J. (2
 
 # Conference contributions
 
-Pechlivanidis, I., Crochemore, L., **Girons Lopez, M.^**  (2021) Why is large sample hydrology important in hydrological forecasting? *EGU General Assembly, online*. [[Abstract]](https://meetingorganizer.copernicus.org/EGU21/EGU21-4871.pdf){:target="_blank"}
+Pechlivanidis, I.^, Crochemore, L., **Girons Lopez, M.**  (2021) Why is large sample hydrology important in hydrological forecasting? *EGU General Assembly, online*. [[Abstract]](https://meetingorganizer.copernicus.org/EGU21/EGU21-4871.pdf){:target="_blank"}
 
 Wörman, A.^, Crochemore, L., Pechlivanidis, P., **Girons Lopez, M.**, Brandimarte, L., Riml, J., Hao, S., Bertacchi Uvo, C., Busse, S. (2021) Spatiotemporal variation in hydropower availability over Europe and potential for virtual energy storage-gain. *World Renewable Energy Congress WREC 2020, Lisbon, Portugal*. [[Speakers]](https://wrec2020.tecnico.ulisboa.pt/~wrec2020.daemon/speakers.html){:target="_blank"}
 
