@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $white;
+  background: $white;
   font: 18px/1.4 $georgia;
   color: $darkGray;
 }
@@ -71,7 +71,7 @@ p {
 a {
   color: $blue;
   text-decoration: none;
-	cursor: pointer;
+  cursor: pointer;
   &:hover, &:active {
     color: $blue;
   }
@@ -131,15 +131,15 @@ img {
 }
 
 // Nicolas Gallagher's micro clearfix hack
-// http://nicolasgallagher.com/micro-clearfix-hack/
+// https://nicolasgallagher.com/micro-clearfix-hack/
 .clearfix:before,
 .clearfix:after {
-    content: " ";
-    display: table;
+  content: " ";
+  display: table;
 }
 
 .clearfix:after {
-    clear: both;
+  clear: both;
 }
 
 /*********************/
@@ -323,35 +323,35 @@ footer {
 //
 
 .btn {
-    padding: 8px 14px;
-    border: 0 none;
-    border-radius: 4px;
-    font-size: 12px;
-    font-weight: 100;
-    letter-spacing: 1px;
-    text-transform: uppercase;
+  padding: 8px 14px;
+  border: 0 none;
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: 100;
+  letter-spacing: 1px;
+  text-transform: uppercase;
 }
 
 .btn:focus, .btn:active:focus, .btn.active:focus {
-    outline: 0 none;
+  outline: 0 none;
 }
 
 .btn-primary {
-    //background: #0099cc;
-    background: $blue;
-    color: $white;
+  //background: #0099cc;
+  background: $blue;
+  color: $white;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
-    //background: #33a6cc;
-    background: $lightGray;
+  //background: #33a6cc;
+  background: $lightGray;
 }
 
 .btn-primary:active, .btn-primary.active {
-    //background: #007299;
-    background: $gray;
-    color: $blue;
-    box-shadow: none;
+  //background: #007299;
+  background: $gray;
+  color: $blue;
+  box-shadow: none;
 }
 
 .pull-right {
