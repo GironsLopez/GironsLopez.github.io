@@ -1,14 +1,15 @@
 ---
 layout: default
 ---
+<div class="post">
 
-<article class="page">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-description">{{ page.description }}</p>
+  </header>
 
-  <center><h1><font color="#4183C4">{{ page.title }}</font></h1></center>
-
-  {% include page_divider.html %}
-
-  <div class="entry">
+  <article>
     {{ content }}
-  </div>
-</article>
+  </article>
+
+</div>

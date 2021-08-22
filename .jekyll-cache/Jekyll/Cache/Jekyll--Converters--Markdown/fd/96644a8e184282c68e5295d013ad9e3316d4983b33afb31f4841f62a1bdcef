@@ -1,0 +1,11 @@
+I"‘<p>Little side project on creating random images with Python. The code is available <a href="https://github.com/GironsLopez/artpy" target="\_blank">here</a>.</p>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/random_sunset.png" alt="" title="example image" />
+    </div>
+</div>
+<div class="caption">
+    Random sunset
+</div>
+:ET
