@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /cv/
-title: curriculum vitae
+title: CV
 nav: true
 ---
 
@@ -9,7 +9,7 @@ nav: true
 
 &nbsp;
 
-## experience
+## Professional experience
 
 | | |
 |-|-|
@@ -34,7 +34,7 @@ nav: true
 
 ---
 
-## education
+## Education
 
 | | |
 |-|-|
@@ -51,7 +51,7 @@ nav: true
 
 ---
 
-## skills
+## Skills
 
 | | |
 |-|-|
@@ -71,7 +71,7 @@ nav: true
 
 ---
 
-## grants, awards, & honours
+## Grants, awards, & honours
 
 | | |
 |-|-|
@@ -96,7 +96,7 @@ nav: true
 
 ---
 
-## other activities
+## Other activities
 
 | | |
 |-|-|
@@ -109,7 +109,7 @@ nav: true
 
 ---
 
-## representation duties
+## Representation duties
 
 | | |
 |-|-|
