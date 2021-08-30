@@ -2,7 +2,7 @@
 layout: page
 title: Snow hydrology
 description: Further development of the HBV model for alpine areas
-img: /assets/img/PostDocresearch.png
+img: /assets/img/PostDocresearch.jpg
 importance: 1
 category: work
 ---

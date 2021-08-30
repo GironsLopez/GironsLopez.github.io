@@ -2,7 +2,7 @@
 layout: page
 title: Information needs
 description: Information Needs for Water Resource and Risk Management
-img: /assets/img/PhDresearch.png
+img: /assets/img/PhDresearch.jpg
 importance: 1
 category: work
 ---
