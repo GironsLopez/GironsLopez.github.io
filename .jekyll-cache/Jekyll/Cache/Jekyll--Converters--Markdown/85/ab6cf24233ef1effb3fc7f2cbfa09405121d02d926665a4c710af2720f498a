@@ -1,4 +1,4 @@
-I"n	<div class="projects">
+I"¢	<div class="projects">
   
   <!-- Display categorized projects -->
     
@@ -15,10 +15,10 @@
   
     <div class="card hoverable">
       
-      <img src="/assets/img/PhDresearch.png" alt="project thumbnail" />
+      <img src="/assets/img/PhDresearch.jpg" alt="project thumbnail" />
       
       <div class="card-body">
-        <h2 class="card-title text-lowercase">Information needs</h2>
+        <h5 class="card-title &lt;!--text-lowercase--&gt;">Information needs</h5>
         <p class="card-text">Information Needs for Water Resource and Risk Management</p>
         <div class="row ml-1 mr-1 p-0">
           
@@ -38,7 +38,7 @@
       <img src="/assets/img/IMG_20180413_115925.jpg" alt="project thumbnail" />
       
       <div class="card-body">
-        <h2 class="card-title text-lowercase">Seasonal forecasting</h2>
+        <h5 class="card-title &lt;!--text-lowercase--&gt;">Seasonal forecasting</h5>
         <p class="card-text">Seasonal streamflow forecasting in Sweden</p>
         <div class="row ml-1 mr-1 p-0">
           
@@ -55,10 +55,10 @@
   
     <div class="card hoverable">
       
-      <img src="/assets/img/PostDocresearch.png" alt="project thumbnail" />
+      <img src="/assets/img/PostDocresearch.jpg" alt="project thumbnail" />
       
       <div class="card-body">
-        <h2 class="card-title text-lowercase">Snow hydrology</h2>
+        <h5 class="card-title &lt;!--text-lowercase--&gt;">Snow hydrology</h5>
         <p class="card-text">Further development of the HBV model for alpine areas</p>
         <div class="row ml-1 mr-1 p-0">
           
@@ -88,7 +88,7 @@
       <img src="/assets/img/random_sunset.png" alt="project thumbnail" />
       
       <div class="card-body">
-        <h2 class="card-title text-lowercase">Random art</h2>
+        <h5 class="card-title &lt;!--text-lowercase--&gt;">Random art</h5>
         <p class="card-text">Creating random images with Python</p>
         <div class="row ml-1 mr-1 p-0">
           

@@ -9,11 +9,11 @@ category: work
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/PhDresearch.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/PhDresearch.jpg' | relative_url }}" alt="" title="River Elbe at Dresden"/>
     </div>
 </div>
 <div class="caption">
-    View from the River Elbe in Dresden (Germany), with a sculpture of <a href="https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa" target="_blank">The Great Wave off Kanagawa</a> in the foreground.
+    View from the River Elbe at Dresden (Germany), with a sculpture of <a href="https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa" target="_blank">The Great Wave off Kanagawa</a> in the foreground.
 </div>
 
 The research project was carried on within the Centre for Natural Disaster Sciences ([CNDS](https://www.cnds.se){:target="\_blank"}) in Sweden. The research project arised from the need to improve water management in order to mitigate the costs and losses derived from the interaction of society with the natural variability of the hydrological system.
