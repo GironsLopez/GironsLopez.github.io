@@ -17,4 +17,4 @@ I am a hydrologist at the the Swedish Meteorological and Hydrological Institute 
 
 My driving force is being able to contribute to social progress and well-being by reducing society's vulnerability to extreme events such as floods and droughts. I believe that achieving a sustainable development model is possible and I want to contribute with my grain of sand towards that end.
 
-Besides water, I am a big enthusiast of the great outdoors in all seasons and I enjoy hiking, skiing, ice-skating, and paddling, among others. I enjoy music and thought myself to play the guitar. One day I hope to do the same with the accordion, balalaika, recorder and ukulele.
+Besides water, I am a big enthusiast of the great outdoors in all seasons. I enjoy hiking, skiing, ice-skating, and paddling, among others. I enjoy music (both playing and dancing!) and thaught myself to play the guitar. One day I hope to do the same with the accordion, balalaika, recorder and ukulele.
