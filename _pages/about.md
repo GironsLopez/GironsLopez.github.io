@@ -6,7 +6,7 @@ description: Hydrologist
 
 profile:
   align: right
-  image: prof_pic_1.png
+  image: prof_pic.png
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
