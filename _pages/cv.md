@@ -17,7 +17,7 @@ nav: true
 | | Inflow forecasting • Model development • Forecast evaluation |
 | | |
 | 2018&nbsp;--&nbsp;2022&nbsp;&nbsp; | **Hydrologist** @ Swedish Meteorological and Hydrological Institute, SMHI (Sweden) |
-| | Seasonal forecasting • Ice break-up forecasting • Officer on duty for the Swedish, Europea (EFAS) and global (Aristotle) hydrological warning services • Large-scale flood forecasting • Large datasets • Model development • Research |
+| | Seasonal forecasting • Ice break-up forecasting • Officer on duty for the Swedish, European (EFAS) and global (Aristotle) hydrological warning services • Large-scale flood forecasting • Large datasets • Model development • Research |
 | | |
 | 2017 -- 2018 | **Postdoctoral Researcher** @ University of Zurich (Switzerland) |
 | | *Snow hydrology • Model development • Large datasets • Data scarcity • Model uncertainty* |
