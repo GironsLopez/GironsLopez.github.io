@@ -14,7 +14,7 @@ nav: true
 | | |
 |-|-|
 | 2022&nbsp;--&nbsp;present&nbsp;&nbsp; | **Hydrologist** @ Fortum (Sweden) |
-| | Inflow forecasting • Model development • Forecast evaluation |
+| | Inflow forecasting • Model development • Forecast evaluation • Data analysis |
 | | |
 | 2018&nbsp;--&nbsp;2022&nbsp;&nbsp; | **Hydrologist** @ Swedish Meteorological and Hydrological Institute, SMHI (Sweden) |
 | | Seasonal forecasting • Ice break-up forecasting • Officer on duty for the Swedish, European (EFAS) and global (Aristotle) hydrological warning services • Large-scale flood forecasting • Large datasets • Model development • Research |
