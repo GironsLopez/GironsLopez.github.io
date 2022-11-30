@@ -106,8 +106,17 @@ nav: true
 | 2016&nbsp;--&nbsp;present&nbsp;&nbsp; | **Scientific translator** |
 | | European Geosciences Union's Planet Press initiative |
 | | |
+| 2014&nbsp;--&nbsp;2016&nbsp;&nbsp; | **Student representative** |
+| | Student representative to the Program Board of the Centre for Natural Disaster Science (CNDS) |
+| | |
 | 2013 | **Volunteer** |
 | | International Association of Hydrological Sciences (IAHS) |
+| | |
+| 2013 | **Student representative** |
+| | Student representative to the Board of the Department of Earth Sciences of Uppsala University |
+| | |
+| 2007 | **Student representative** |
+| | Student representative to the Board of the Section of Geology at Universitat Autònoma de Barcelona (UAB) |
 | | |
 
 ---
