@@ -13,7 +13,7 @@ nav: true
 
 | | |
 |-|-|
-| 2022&nbsp;--&nbsp;present&nbsp;&nbsp; | **Hydrologist** @ Fortum (Sweden) |
+| 2022&nbsp;--&nbsp; &nbsp;&nbsp; | **Hydrologist** @ Fortum (Sweden) |
 | | Inflow forecasting • Model development • Forecast evaluation • Data analysis |
 | | |
 | 2018&nbsp;--&nbsp;2022&nbsp;&nbsp; | **Hydrologist** @ Swedish Meteorological and Hydrological Institute, SMHI (Sweden) |
@@ -103,7 +103,7 @@ nav: true
 
 | | |
 |-|-|
-| 2016&nbsp;--&nbsp;present&nbsp;&nbsp; | **Scientific translator** |
+| 2016&nbsp;--&nbsp; &nbsp;&nbsp; | **Scientific translator** |
 | | European Geosciences Union's Planet Press initiative |
 | | |
 | 2014&nbsp;--&nbsp;2016&nbsp;&nbsp; | **Student representative** |
@@ -117,19 +117,6 @@ nav: true
 | | |
 | 2007 | **Student representative** |
 | | Student representative to the Board of the Section of Geology at Universitat Autònoma de Barcelona (UAB) |
-| | |
-
----
-
-## Representation duties
-
-| | |
-|-|-|
-| 2014&nbsp;--&nbsp;2016&nbsp;&nbsp; | **PhD student representative** @ Centre for Natural Disaster Science (CNDS) |
-| | |
-| 2013 | **PhD student representative** @ Uppsala University |
-| | |
-| 2007 | **Student representative** @ Universitat Autònoma de Barcelona |
 | | |
 
 ---
